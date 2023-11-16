@@ -1,0 +1,2632 @@
+[
+    {
+        "name": "Ригель 9905",
+        "constellation": "Близнецы",
+        "spectral-class": "I4V",
+        "radius": "999824096",
+        "rotation": "90.67",
+        "age": "4.49",
+        "distance": "2575669.95",
+        "absolute-magnitude": "4.11"
+    },
+    {
+        "name": "Хадар 2404",
+        "constellation": "Лев",
+        "spectral-class": "L9P",
+        "radius": "999065863",
+        "rotation": "369.34",
+        "age": "4.67",
+        "distance": "1459571.46",
+        "absolute-magnitude": "3.76"
+    },
+    {
+        "name": "Альфа Центавра 2628",
+        "constellation": "Козерог",
+        "spectral-class": "B7M",
+        "radius": "996664760",
+        "rotation": "28.13",
+        "age": "4.85",
+        "distance": "1009867.3",
+        "absolute-magnitude": "7.09"
+    },
+    {
+        "name": "Вега 5015",
+        "constellation": "Рак",
+        "spectral-class": "W8M",
+        "radius": "992998184",
+        "rotation": "762.53",
+        "age": "3.28",
+        "distance": "8249513.24",
+        "absolute-magnitude": "2.35"
+    },
+    {
+        "name": "Ригель 2977",
+        "constellation": "Лев",
+        "spectral-class": "O4N",
+        "radius": "986514489",
+        "rotation": "721.04",
+        "age": "4.51",
+        "distance": "2763945.07",
+        "absolute-magnitude": "6.11"
+    },
+    {
+        "name": "Фомальгаут 4440",
+        "constellation": "Скорпион",
+        "spectral-class": "E2T",
+        "radius": "985711243",
+        "rotation": "328.23",
+        "age": "4.69",
+        "distance": "7126130.34",
+        "absolute-magnitude": "1.23"
+    },
+    {
+        "name": "Акрукс 1250",
+        "constellation": "Телец",
+        "spectral-class": "A0V",
+        "radius": "976653532",
+        "rotation": "863.33",
+        "age": "3.19",
+        "distance": "593104.46",
+        "absolute-magnitude": "7.04"
+    },
+    {
+        "name": "Ригель 3639",
+        "constellation": "Водолей",
+        "spectral-class": "L7K",
+        "radius": "975193057",
+        "rotation": "919.55",
+        "age": "4.25",
+        "distance": "4158650.14",
+        "absolute-magnitude": "2.88"
+    },
+    {
+        "name": "Полярная звезда 8244",
+        "constellation": "Телец",
+        "spectral-class": "I3U",
+        "radius": "970775396",
+        "rotation": "578.38",
+        "age": "4.4",
+        "distance": "3295931.3",
+        "absolute-magnitude": "9.31"
+    },
+    {
+        "name": "Полярная звезда 9819",
+        "constellation": "Овен",
+        "spectral-class": "B3H",
+        "radius": "961744807",
+        "rotation": "651.75",
+        "age": "3.53",
+        "distance": "538862.79",
+        "absolute-magnitude": "8.03"
+    },
+    {
+        "name": "Ригель 2715",
+        "constellation": "Рыбы",
+        "spectral-class": "T5V",
+        "radius": "961549604",
+        "rotation": "271.63",
+        "age": "3.79",
+        "distance": "7672928.81",
+        "absolute-magnitude": "7.89"
+    },
+    {
+        "name": "Акрукс 9521",
+        "constellation": "Лев",
+        "spectral-class": "S2J",
+        "radius": "956706645",
+        "rotation": "420.76",
+        "age": "5.62",
+        "distance": "6361882.96",
+        "absolute-magnitude": "4.0"
+    },
+    {
+        "name": "Акрукс 2863",
+        "constellation": "Скорпион",
+        "spectral-class": "M2C",
+        "radius": "955227003",
+        "rotation": "320.32",
+        "age": "4.7",
+        "distance": "7777671.84",
+        "absolute-magnitude": "4.75"
+    },
+    {
+        "name": "Антарес 2318",
+        "constellation": "Овен",
+        "spectral-class": "B2C",
+        "radius": "951026139",
+        "rotation": "985.56",
+        "age": "4.28",
+        "distance": "1683524.39",
+        "absolute-magnitude": "8.77"
+    },
+    {
+        "name": "Антарес 5758",
+        "constellation": "Рак",
+        "spectral-class": "U6O",
+        "radius": "940554138",
+        "rotation": "270.4",
+        "age": "5.3",
+        "distance": "2968376.74",
+        "absolute-magnitude": "1.78"
+    },
+    {
+        "name": "Ригель 9035",
+        "constellation": "Рыбы",
+        "spectral-class": "H9A",
+        "radius": "939011258",
+        "rotation": "187.43",
+        "age": "4.44",
+        "distance": "4279921.34",
+        "absolute-magnitude": "1.9"
+    },
+    {
+        "name": "Альфа Центавра 1628",
+        "constellation": "Скорпион",
+        "spectral-class": "U2P",
+        "radius": "936535816",
+        "rotation": "461.75",
+        "age": "5.45",
+        "distance": "4826917.21",
+        "absolute-magnitude": "3.25"
+    },
+    {
+        "name": "Антарес 7530",
+        "constellation": "Рак",
+        "spectral-class": "L8R",
+        "radius": "935684078",
+        "rotation": "213.08",
+        "age": "4.94",
+        "distance": "3111949.42",
+        "absolute-magnitude": "2.08"
+    },
+    {
+        "name": "Бетельгейзе 7261",
+        "constellation": "Близнецы",
+        "spectral-class": "E5U",
+        "radius": "931889532",
+        "rotation": "96.64",
+        "age": "5.96",
+        "distance": "7763363.33",
+        "absolute-magnitude": "8.63"
+    },
+    {
+        "name": "Ригель 7472",
+        "constellation": "Стрелец",
+        "spectral-class": "V5D",
+        "radius": "927842333",
+        "rotation": "288.68",
+        "age": "5.38",
+        "distance": "2962260.13",
+        "absolute-magnitude": "3.23"
+    },
+    {
+        "name": "Хадар 8540",
+        "constellation": "Стрелец",
+        "spectral-class": "E7V",
+        "radius": "927734827",
+        "rotation": "192.16",
+        "age": "4.59",
+        "distance": "7869590.04",
+        "absolute-magnitude": "2.41"
+    },
+    {
+        "name": "Полярная звезда 6275",
+        "constellation": "Рак",
+        "spectral-class": "H9S",
+        "radius": "927399345",
+        "rotation": "288.16",
+        "age": "5.43",
+        "distance": "9670287.52",
+        "absolute-magnitude": "5.05"
+    },
+    {
+        "name": "Антарес 5132",
+        "constellation": "Козерог",
+        "spectral-class": "R2X",
+        "radius": "919597922",
+        "rotation": "622.15",
+        "age": "5.7",
+        "distance": "717002.96",
+        "absolute-magnitude": "7.55"
+    },
+    {
+        "name": "Альфа Центавра 6627",
+        "constellation": "Водолей",
+        "spectral-class": "L8Q",
+        "radius": "917720990",
+        "rotation": "365.23",
+        "age": "4.13",
+        "distance": "6215542.05",
+        "absolute-magnitude": "1.7"
+    },
+    {
+        "name": "Хадар 3966",
+        "constellation": "Стрелец",
+        "spectral-class": "A3A",
+        "radius": "901816949",
+        "rotation": "104.05",
+        "age": "4.26",
+        "distance": "437328.24",
+        "absolute-magnitude": "4.21"
+    },
+    {
+        "name": "Альфа Центавра 2518",
+        "constellation": "Близнецы",
+        "spectral-class": "E4S",
+        "radius": "899273041",
+        "rotation": "211.17",
+        "age": "3.36",
+        "distance": "5456244.44",
+        "absolute-magnitude": "7.86"
+    },
+    {
+        "name": "Солнце 9903",
+        "constellation": "Дева",
+        "spectral-class": "X8U",
+        "radius": "894181540",
+        "rotation": "89.33",
+        "age": "4.9",
+        "distance": "5774721.55",
+        "absolute-magnitude": "5.5"
+    },
+    {
+        "name": "Фомалхаут 2061",
+        "constellation": "Дева",
+        "spectral-class": "G6T",
+        "radius": "892587076",
+        "rotation": "724.1",
+        "age": "5.81",
+        "distance": "6135858.34",
+        "absolute-magnitude": "4.54"
+    },
+    {
+        "name": "Фомальгаут 5007",
+        "constellation": "Скорпион",
+        "spectral-class": "N6X",
+        "radius": "888723553",
+        "rotation": "43.15",
+        "age": "3.09",
+        "distance": "9695063.15",
+        "absolute-magnitude": "8.47"
+    },
+    {
+        "name": "Хадар 6715",
+        "constellation": "Овен",
+        "spectral-class": "J2H",
+        "radius": "885708278",
+        "rotation": "24.94",
+        "age": "5.7",
+        "distance": "1226685.82",
+        "absolute-magnitude": "1.88"
+    },
+    {
+        "name": "Бетельгейзе 8295",
+        "constellation": "Козерог",
+        "spectral-class": "Y5S",
+        "radius": "881471359",
+        "rotation": "742.1",
+        "age": "4.3",
+        "distance": "2068498.24",
+        "absolute-magnitude": "8.51"
+    },
+    {
+        "name": "Полярная звезда 4573",
+        "constellation": "Рыбы",
+        "spectral-class": "O2V",
+        "radius": "874957569",
+        "rotation": "502.05",
+        "age": "3.43",
+        "distance": "6060762.56",
+        "absolute-magnitude": "9.98"
+    },
+    {
+        "name": "Альфа Центавра 2870",
+        "constellation": "Телец",
+        "spectral-class": "Q4K",
+        "radius": "874780064",
+        "rotation": "676.68",
+        "age": "4.35",
+        "distance": "1265834.02",
+        "absolute-magnitude": "6.03"
+    },
+    {
+        "name": "Солнце 7478",
+        "constellation": "Весы",
+        "spectral-class": "C1Y",
+        "radius": "870343177",
+        "rotation": "916.51",
+        "age": "4.76",
+        "distance": "8886769.91",
+        "absolute-magnitude": "7.37"
+    },
+    {
+        "name": "Хадар 5271",
+        "constellation": "Овен",
+        "spectral-class": "F1P",
+        "radius": "868335919",
+        "rotation": "120.13",
+        "age": "3.36",
+        "distance": "6132460.06",
+        "absolute-magnitude": "3.95"
+    },
+    {
+        "name": "Акрукс 4503",
+        "constellation": "Весы",
+        "spectral-class": "T3Q",
+        "radius": "865769740",
+        "rotation": "357.94",
+        "age": "3.47",
+        "distance": "128474.98",
+        "absolute-magnitude": "3.05"
+    },
+    {
+        "name": "Полярная звезда 8142",
+        "constellation": "Дева",
+        "spectral-class": "T1I",
+        "radius": "859784478",
+        "rotation": "74.31",
+        "age": "5.94",
+        "distance": "3665580.09",
+        "absolute-magnitude": "7.09"
+    },
+    {
+        "name": "Фомальгаут 6899",
+        "constellation": "Лев",
+        "spectral-class": "A6N",
+        "radius": "858938825",
+        "rotation": "527.57",
+        "age": "4.4",
+        "distance": "4509806.61",
+        "absolute-magnitude": "6.11"
+    },
+    {
+        "name": "Акрукс 1433",
+        "constellation": "Телец",
+        "spectral-class": "G6Q",
+        "radius": "857136074",
+        "rotation": "536.56",
+        "age": "5.12",
+        "distance": "9551863.44",
+        "absolute-magnitude": "4.55"
+    },
+    {
+        "name": "Вега 3930",
+        "constellation": "Водолей",
+        "spectral-class": "Y0H",
+        "radius": "856249521",
+        "rotation": "394.18",
+        "age": "3.05",
+        "distance": "3864376.73",
+        "absolute-magnitude": "3.64"
+    },
+    {
+        "name": "Канопус 2733",
+        "constellation": "Скорпион",
+        "spectral-class": "L3B",
+        "radius": "856099964",
+        "rotation": "270.34",
+        "age": "5.81",
+        "distance": "7232189.67",
+        "absolute-magnitude": "6.79"
+    },
+    {
+        "name": "Фомалхаут 9116",
+        "constellation": "Рыбы",
+        "spectral-class": "R5V",
+        "radius": "853147387",
+        "rotation": "955.61",
+        "age": "3.74",
+        "distance": "4831269.59",
+        "absolute-magnitude": "9.72"
+    },
+    {
+        "name": "Хадар 1901",
+        "constellation": "Рыбы",
+        "spectral-class": "X6E",
+        "radius": "851125303",
+        "rotation": "350.5",
+        "age": "3.87",
+        "distance": "8322620.33",
+        "absolute-magnitude": "9.43"
+    },
+    {
+        "name": "Альфа Центавра 2182",
+        "constellation": "Лев",
+        "spectral-class": "I6I",
+        "radius": "843306386",
+        "rotation": "72.51",
+        "age": "5.6",
+        "distance": "8586224.8",
+        "absolute-magnitude": "2.65"
+    },
+    {
+        "name": "Бетельгейзе 7233",
+        "constellation": "Рыбы",
+        "spectral-class": "C5U",
+        "radius": "838552489",
+        "rotation": "149.16",
+        "age": "5.52",
+        "distance": "5835286.98",
+        "absolute-magnitude": "1.15"
+    },
+    {
+        "name": "Канопус 2915",
+        "constellation": "Овен",
+        "spectral-class": "X0U",
+        "radius": "836589089",
+        "rotation": "413.88",
+        "age": "3.79",
+        "distance": "631201.35",
+        "absolute-magnitude": "9.14"
+    },
+    {
+        "name": "Фомальгаут 3053",
+        "constellation": "Козерог",
+        "spectral-class": "Z9A",
+        "radius": "835529315",
+        "rotation": "731.49",
+        "age": "3.24",
+        "distance": "5925291.68",
+        "absolute-magnitude": "2.67"
+    },
+    {
+        "name": "Ригель 5920",
+        "constellation": "Рыбы",
+        "spectral-class": "A5X",
+        "radius": "831151067",
+        "rotation": "710.37",
+        "age": "3.33",
+        "distance": "3682303.91",
+        "absolute-magnitude": "6.72"
+    },
+    {
+        "name": "Вега 3885",
+        "constellation": "Рыбы",
+        "spectral-class": "C4Z",
+        "radius": "814394376",
+        "rotation": "241.76",
+        "age": "4.04",
+        "distance": "279220.53",
+        "absolute-magnitude": "7.52"
+    },
+    {
+        "name": "Канопус 5221",
+        "constellation": "Близнецы",
+        "spectral-class": "Z0R",
+        "radius": "813745642",
+        "rotation": "918.6",
+        "age": "5.37",
+        "distance": "6232571.49",
+        "absolute-magnitude": "3.48"
+    },
+    {
+        "name": "Солнце 3469",
+        "constellation": "Стрелец",
+        "spectral-class": "N0V",
+        "radius": "810808320",
+        "rotation": "438.81",
+        "age": "3.33",
+        "distance": "6644257.99",
+        "absolute-magnitude": "9.52"
+    },
+    {
+        "name": "Вега 5638",
+        "constellation": "Дева",
+        "spectral-class": "V7Q",
+        "radius": "809445703",
+        "rotation": "884.08",
+        "age": "4.94",
+        "distance": "2778125.45",
+        "absolute-magnitude": "9.52"
+    },
+    {
+        "name": "Канопус 2166",
+        "constellation": "Лев",
+        "spectral-class": "V5L",
+        "radius": "807488179",
+        "rotation": "910.84",
+        "age": "3.62",
+        "distance": "2553437.54",
+        "absolute-magnitude": "9.81"
+    },
+    {
+        "name": "Полярная звезда 8263",
+        "constellation": "Водолей",
+        "spectral-class": "A4X",
+        "radius": "806756834",
+        "rotation": "865.52",
+        "age": "4.0",
+        "distance": "3960960.67",
+        "absolute-magnitude": "9.01"
+    },
+    {
+        "name": "Хадар 2627",
+        "constellation": "Лев",
+        "spectral-class": "K7D",
+        "radius": "796303870",
+        "rotation": "586.1",
+        "age": "4.49",
+        "distance": "3951681.53",
+        "absolute-magnitude": "6.4"
+    },
+    {
+        "name": "Вега 9103",
+        "constellation": "Козерог",
+        "spectral-class": "N9P",
+        "radius": "793743869",
+        "rotation": "278.65",
+        "age": "5.73",
+        "distance": "6599095.43",
+        "absolute-magnitude": "2.75"
+    },
+    {
+        "name": "Антарес 9957",
+        "constellation": "Лев",
+        "spectral-class": "K9L",
+        "radius": "792669598",
+        "rotation": "763.64",
+        "age": "3.19",
+        "distance": "7654560.39",
+        "absolute-magnitude": "2.02"
+    },
+    {
+        "name": "Бетельгейзе 4785",
+        "constellation": "Рак",
+        "spectral-class": "N3D",
+        "radius": "786962380",
+        "rotation": "657.46",
+        "age": "5.13",
+        "distance": "2946467.42",
+        "absolute-magnitude": "2.33"
+    },
+    {
+        "name": "Альфа Центавра 7924",
+        "constellation": "Телец",
+        "spectral-class": "Z3Q",
+        "radius": "785558552",
+        "rotation": "178.64",
+        "age": "4.38",
+        "distance": "706807.68",
+        "absolute-magnitude": "5.64"
+    },
+    {
+        "name": "Вега 4453",
+        "constellation": "Козерог",
+        "spectral-class": "S4S",
+        "radius": "783272323",
+        "rotation": "433.34",
+        "age": "4.03",
+        "distance": "8759750.93",
+        "absolute-magnitude": "9.63"
+    },
+    {
+        "name": "Вега 1222",
+        "constellation": "Овен",
+        "spectral-class": "R1J",
+        "radius": "779329952",
+        "rotation": "707.83",
+        "age": "3.17",
+        "distance": "44580.79",
+        "absolute-magnitude": "9.06"
+    },
+    {
+        "name": "Ригель 6029",
+        "constellation": "Лев",
+        "spectral-class": "N3U",
+        "radius": "773641464",
+        "rotation": "167.02",
+        "age": "4.16",
+        "distance": "4281972.95",
+        "absolute-magnitude": "1.96"
+    },
+    {
+        "name": "Акрукс 4762",
+        "constellation": "Скорпион",
+        "spectral-class": "K0I",
+        "radius": "772563411",
+        "rotation": "681.51",
+        "age": "4.13",
+        "distance": "7282532.33",
+        "absolute-magnitude": "7.12"
+    },
+    {
+        "name": "Антарес 8844",
+        "constellation": "Дева",
+        "spectral-class": "A0S",
+        "radius": "754725109",
+        "rotation": "906.92",
+        "age": "5.65",
+        "distance": "7344151.7",
+        "absolute-magnitude": "6.49"
+    },
+    {
+        "name": "Антарес 4933",
+        "constellation": "Овен",
+        "spectral-class": "K1V",
+        "radius": "750789714",
+        "rotation": "418.6",
+        "age": "5.51",
+        "distance": "4273173.25",
+        "absolute-magnitude": "4.25"
+    },
+    {
+        "name": "Канопус 7793",
+        "constellation": "Весы",
+        "spectral-class": "P1Y",
+        "radius": "744054185",
+        "rotation": "628.11",
+        "age": "5.1",
+        "distance": "701153.59",
+        "absolute-magnitude": "3.22"
+    },
+    {
+        "name": "Антарес 7608",
+        "constellation": "Рак",
+        "spectral-class": "P2E",
+        "radius": "732701977",
+        "rotation": "364.35",
+        "age": "3.47",
+        "distance": "7710523.02",
+        "absolute-magnitude": "8.89"
+    },
+    {
+        "name": "Ригель 4873",
+        "constellation": "Стрелец",
+        "spectral-class": "W4Y",
+        "radius": "729861980",
+        "rotation": "639.13",
+        "age": "4.33",
+        "distance": "7341372.72",
+        "absolute-magnitude": "6.12"
+    },
+    {
+        "name": "Канопус 5574",
+        "constellation": "Близнецы",
+        "spectral-class": "W4K",
+        "radius": "728611433",
+        "rotation": "213.24",
+        "age": "4.6",
+        "distance": "7762574.83",
+        "absolute-magnitude": "2.81"
+    },
+    {
+        "name": "Бетельгейзе 4205",
+        "constellation": "Лев",
+        "spectral-class": "W1I",
+        "radius": "728431685",
+        "rotation": "647.22",
+        "age": "4.78",
+        "distance": "5703870.18",
+        "absolute-magnitude": "8.11"
+    },
+    {
+        "name": "Полярная звезда 1266",
+        "constellation": "Весы",
+        "spectral-class": "J1D",
+        "radius": "728205109",
+        "rotation": "971.19",
+        "age": "3.85",
+        "distance": "6104514.8",
+        "absolute-magnitude": "7.65"
+    },
+    {
+        "name": "Фомальгаут 2382",
+        "constellation": "Рыбы",
+        "spectral-class": "Q0J",
+        "radius": "724048151",
+        "rotation": "299.16",
+        "age": "5.44",
+        "distance": "8958285.71",
+        "absolute-magnitude": "9.58"
+    },
+    {
+        "name": "Хадар 4236",
+        "constellation": "Лев",
+        "spectral-class": "X1K",
+        "radius": "723800237",
+        "rotation": "365.35",
+        "age": "4.51",
+        "distance": "1870551.39",
+        "absolute-magnitude": "5.04"
+    },
+    {
+        "name": "Вега 5317",
+        "constellation": "Овен",
+        "spectral-class": "E4J",
+        "radius": "722691392",
+        "rotation": "326.74",
+        "age": "4.45",
+        "distance": "4605210.44",
+        "absolute-magnitude": "6.83"
+    },
+    {
+        "name": "Антарес 1115",
+        "constellation": "Рыбы",
+        "spectral-class": "K0B",
+        "radius": "712604928",
+        "rotation": "631.92",
+        "age": "5.22",
+        "distance": "8595104.39",
+        "absolute-magnitude": "7.47"
+    },
+    {
+        "name": "Солнце 3416",
+        "constellation": "Рак",
+        "spectral-class": "F2B",
+        "radius": "701977602",
+        "rotation": "100.38",
+        "age": "3.32",
+        "distance": "5562426.89",
+        "absolute-magnitude": "8.4"
+    },
+    {
+        "name": "Фомалхаут 9948",
+        "constellation": "Рыбы",
+        "spectral-class": "N0Q",
+        "radius": "691363110",
+        "rotation": "523.27",
+        "age": "5.07",
+        "distance": "3440100.36",
+        "absolute-magnitude": "1.41"
+    },
+    {
+        "name": "Полярная звезда 5287",
+        "constellation": "Скорпион",
+        "spectral-class": "I9O",
+        "radius": "688824664",
+        "rotation": "80.56",
+        "age": "3.82",
+        "distance": "2181010.65",
+        "absolute-magnitude": "8.19"
+    },
+    {
+        "name": "Бетельгейзе 5488",
+        "constellation": "Телец",
+        "spectral-class": "N4F",
+        "radius": "683308581",
+        "rotation": "790.74",
+        "age": "5.97",
+        "distance": "7725257.15",
+        "absolute-magnitude": "2.41"
+    },
+    {
+        "name": "Антарес 2480",
+        "constellation": "Дева",
+        "spectral-class": "G9Z",
+        "radius": "677218756",
+        "rotation": "819.29",
+        "age": "5.61",
+        "distance": "1603092.84",
+        "absolute-magnitude": "2.42"
+    },
+    {
+        "name": "Вега 3075",
+        "constellation": "Стрелец",
+        "spectral-class": "D3N",
+        "radius": "665490450",
+        "rotation": "364.0",
+        "age": "3.62",
+        "distance": "4390194.96",
+        "absolute-magnitude": "8.8"
+    },
+    {
+        "name": "Вега 1204",
+        "constellation": "Телец",
+        "spectral-class": "B6K",
+        "radius": "664456574",
+        "rotation": "49.58",
+        "age": "3.85",
+        "distance": "5892834.26",
+        "absolute-magnitude": "5.58"
+    },
+    {
+        "name": "Ригель 3949",
+        "constellation": "Близнецы",
+        "spectral-class": "X2N",
+        "radius": "656693401",
+        "rotation": "477.68",
+        "age": "4.26",
+        "distance": "5623630.0",
+        "absolute-magnitude": "6.58"
+    },
+    {
+        "name": "Хадар 7842",
+        "constellation": "Овен",
+        "spectral-class": "Y3F",
+        "radius": "655318897",
+        "rotation": "96.43",
+        "age": "3.76",
+        "distance": "4173414.83",
+        "absolute-magnitude": "8.11"
+    },
+    {
+        "name": "Ригель 7396",
+        "constellation": "Стрелец",
+        "spectral-class": "X5D",
+        "radius": "652597007",
+        "rotation": "929.2",
+        "age": "3.14",
+        "distance": "2454853.18",
+        "absolute-magnitude": "3.04"
+    },
+    {
+        "name": "Фомальгаут 6566",
+        "constellation": "Скорпион",
+        "spectral-class": "L5H",
+        "radius": "650522187",
+        "rotation": "631.5",
+        "age": "4.0",
+        "distance": "606609.57",
+        "absolute-magnitude": "5.55"
+    },
+    {
+        "name": "Полярная звезда 6369",
+        "constellation": "Телец",
+        "spectral-class": "N0A",
+        "radius": "649001187",
+        "rotation": "361.02",
+        "age": "4.85",
+        "distance": "4408067.89",
+        "absolute-magnitude": "1.99"
+    },
+    {
+        "name": "Акрукс 6433",
+        "constellation": "Телец",
+        "spectral-class": "M6L",
+        "radius": "643120561",
+        "rotation": "568.83",
+        "age": "3.06",
+        "distance": "5059594.63",
+        "absolute-magnitude": "6.41"
+    },
+    {
+        "name": "Бетельгейзе 7322",
+        "constellation": "Рак",
+        "spectral-class": "B3U",
+        "radius": "638619080",
+        "rotation": "397.23",
+        "age": "3.53",
+        "distance": "4559550.2",
+        "absolute-magnitude": "2.06"
+    },
+    {
+        "name": "Антарес 7571",
+        "constellation": "Водолей",
+        "spectral-class": "M6Z",
+        "radius": "623851371",
+        "rotation": "952.06",
+        "age": "4.19",
+        "distance": "5854996.53",
+        "absolute-magnitude": "6.94"
+    },
+    {
+        "name": "Фомалхаут 5599",
+        "constellation": "Овен",
+        "spectral-class": "D7E",
+        "radius": "622174148",
+        "rotation": "83.41",
+        "age": "4.41",
+        "distance": "6431913.96",
+        "absolute-magnitude": "2.17"
+    },
+    {
+        "name": "Солнце 3729",
+        "constellation": "Водолей",
+        "spectral-class": "X6F",
+        "radius": "621421166",
+        "rotation": "94.4",
+        "age": "3.39",
+        "distance": "2109937.3",
+        "absolute-magnitude": "5.89"
+    },
+    {
+        "name": "Фомалхаут 7258",
+        "constellation": "Овен",
+        "spectral-class": "Y0J",
+        "radius": "618995888",
+        "rotation": "616.53",
+        "age": "4.25",
+        "distance": "667262.03",
+        "absolute-magnitude": "6.06"
+    },
+    {
+        "name": "Канопус 7658",
+        "constellation": "Рыбы",
+        "spectral-class": "Y3F",
+        "radius": "612424584",
+        "rotation": "252.79",
+        "age": "4.13",
+        "distance": "5454086.34",
+        "absolute-magnitude": "6.32"
+    },
+    {
+        "name": "Ригель 2617",
+        "constellation": "Овен",
+        "spectral-class": "U4V",
+        "radius": "607695094",
+        "rotation": "9.44",
+        "age": "5.71",
+        "distance": "6677339.08",
+        "absolute-magnitude": "4.17"
+    },
+    {
+        "name": "Фомальгаут 2364",
+        "constellation": "Скорпион",
+        "spectral-class": "Z9O",
+        "radius": "605444367",
+        "rotation": "893.63",
+        "age": "3.81",
+        "distance": "1920298.67",
+        "absolute-magnitude": "3.83"
+    },
+    {
+        "name": "Хадар 3858",
+        "constellation": "Водолей",
+        "spectral-class": "L3W",
+        "radius": "604906438",
+        "rotation": "594.28",
+        "age": "4.9",
+        "distance": "5695969.52",
+        "absolute-magnitude": "9.18"
+    },
+    {
+        "name": "Полярная звезда 8020",
+        "constellation": "Лев",
+        "spectral-class": "K4B",
+        "radius": "602854453",
+        "rotation": "963.77",
+        "age": "3.83",
+        "distance": "778780.87",
+        "absolute-magnitude": "1.85"
+    },
+    {
+        "name": "Фомалхаут 8209",
+        "constellation": "Весы",
+        "spectral-class": "B0Z",
+        "radius": "601866154",
+        "rotation": "65.57",
+        "age": "4.52",
+        "distance": "5858523.99",
+        "absolute-magnitude": "7.84"
+    },
+    {
+        "name": "Ригель 6265",
+        "constellation": "Овен",
+        "spectral-class": "H9C",
+        "radius": "598281525",
+        "rotation": "830.09",
+        "age": "5.44",
+        "distance": "6503823.82",
+        "absolute-magnitude": "6.79"
+    },
+    {
+        "name": "Ригель 9545",
+        "constellation": "Козерог",
+        "spectral-class": "Y4X",
+        "radius": "594629819",
+        "rotation": "144.9",
+        "age": "3.16",
+        "distance": "8259941.48",
+        "absolute-magnitude": "5.52"
+    },
+    {
+        "name": "Акрукс 4243",
+        "constellation": "Весы",
+        "spectral-class": "B4Y",
+        "radius": "591735349",
+        "rotation": "972.02",
+        "age": "3.66",
+        "distance": "7799405.45",
+        "absolute-magnitude": "8.25"
+    },
+    {
+        "name": "Альфа Центавра 5399",
+        "constellation": "Весы",
+        "spectral-class": "F2G",
+        "radius": "589488989",
+        "rotation": "312.44",
+        "age": "4.53",
+        "distance": "227139.38",
+        "absolute-magnitude": "7.97"
+    },
+    {
+        "name": "Хадар 7488",
+        "constellation": "Скорпион",
+        "spectral-class": "F3D",
+        "radius": "589225820",
+        "rotation": "208.23",
+        "age": "3.51",
+        "distance": "1562420.71",
+        "absolute-magnitude": "9.9"
+    },
+    {
+        "name": "Вега 4311",
+        "constellation": "Стрелец",
+        "spectral-class": "E9R",
+        "radius": "587477823",
+        "rotation": "64.53",
+        "age": "4.0",
+        "distance": "7531580.8",
+        "absolute-magnitude": "1.43"
+    },
+    {
+        "name": "Антарес 5445",
+        "constellation": "Рак",
+        "spectral-class": "E3X",
+        "radius": "585882303",
+        "rotation": "685.37",
+        "age": "5.17",
+        "distance": "5224692.49",
+        "absolute-magnitude": "8.73"
+    },
+    {
+        "name": "Фомалхаут 9693",
+        "constellation": "Скорпион",
+        "spectral-class": "O3X",
+        "radius": "584968728",
+        "rotation": "584.74",
+        "age": "3.7",
+        "distance": "2018671.26",
+        "absolute-magnitude": "8.18"
+    },
+    {
+        "name": "Солнце 6270",
+        "constellation": "Телец",
+        "spectral-class": "S2F",
+        "radius": "580429466",
+        "rotation": "134.45",
+        "age": "5.64",
+        "distance": "6975808.58",
+        "absolute-magnitude": "9.77"
+    },
+    {
+        "name": "Бетельгейзе 2666",
+        "constellation": "Овен",
+        "spectral-class": "Z1B",
+        "radius": "575194654",
+        "rotation": "562.96",
+        "age": "3.8",
+        "distance": "5229354.7",
+        "absolute-magnitude": "5.23"
+    },
+    {
+        "name": "Фомалхаут 4926",
+        "constellation": "Телец",
+        "spectral-class": "A5L",
+        "radius": "573657602",
+        "rotation": "299.16",
+        "age": "5.45",
+        "distance": "5470404.4",
+        "absolute-magnitude": "8.55"
+    },
+    {
+        "name": "Фомалхаут 1033",
+        "constellation": "Водолей",
+        "spectral-class": "C1V",
+        "radius": "571474556",
+        "rotation": "670.02",
+        "age": "3.98",
+        "distance": "9709429.11",
+        "absolute-magnitude": "5.12"
+    },
+    {
+        "name": "Ригель 6282",
+        "constellation": "Дева",
+        "spectral-class": "J7V",
+        "radius": "569596784",
+        "rotation": "868.88",
+        "age": "5.1",
+        "distance": "7500623.04",
+        "absolute-magnitude": "6.53"
+    },
+    {
+        "name": "Альфа Центавра 6834",
+        "constellation": "Овен",
+        "spectral-class": "Z4A",
+        "radius": "566068939",
+        "rotation": "291.37",
+        "age": "4.05",
+        "distance": "4246685.21",
+        "absolute-magnitude": "9.65"
+    },
+    {
+        "name": "Ригель 3368",
+        "constellation": "Дева",
+        "spectral-class": "G0N",
+        "radius": "564370168",
+        "rotation": "966.24",
+        "age": "4.65",
+        "distance": "5916735.69",
+        "absolute-magnitude": "3.53"
+    },
+    {
+        "name": "Вега 1800",
+        "constellation": "Овен",
+        "spectral-class": "U7G",
+        "radius": "560157062",
+        "rotation": "542.62",
+        "age": "3.62",
+        "distance": "2779079.63",
+        "absolute-magnitude": "5.69"
+    },
+    {
+        "name": "Фомальгаут 4776",
+        "constellation": "Козерог",
+        "spectral-class": "X3B",
+        "radius": "559066148",
+        "rotation": "804.48",
+        "age": "5.91",
+        "distance": "344053.01",
+        "absolute-magnitude": "9.42"
+    },
+    {
+        "name": "Акрукс 3176",
+        "constellation": "Дева",
+        "spectral-class": "N0C",
+        "radius": "554760444",
+        "rotation": "962.82",
+        "age": "5.97",
+        "distance": "3705091.57",
+        "absolute-magnitude": "4.58"
+    },
+    {
+        "name": "Канопус 2232",
+        "constellation": "Скорпион",
+        "spectral-class": "U0A",
+        "radius": "553876284",
+        "rotation": "962.5",
+        "age": "3.87",
+        "distance": "4460302.01",
+        "absolute-magnitude": "4.35"
+    },
+    {
+        "name": "Фомальгаут 7280",
+        "constellation": "Близнецы",
+        "spectral-class": "F9B",
+        "radius": "541715373",
+        "rotation": "814.39",
+        "age": "3.24",
+        "distance": "1546387.65",
+        "absolute-magnitude": "8.74"
+    },
+    {
+        "name": "Солнце 3829",
+        "constellation": "Весы",
+        "spectral-class": "S1J",
+        "radius": "540433384",
+        "rotation": "214.46",
+        "age": "4.86",
+        "distance": "5814045.17",
+        "absolute-magnitude": "9.36"
+    },
+    {
+        "name": "Солнце 4788",
+        "constellation": "Дева",
+        "spectral-class": "L9L",
+        "radius": "538536458",
+        "rotation": "26.3",
+        "age": "4.98",
+        "distance": "9258491.22",
+        "absolute-magnitude": "4.09"
+    },
+    {
+        "name": "Хадар 4140",
+        "constellation": "Водолей",
+        "spectral-class": "Y5F",
+        "radius": "528055630",
+        "rotation": "990.88",
+        "age": "5.3",
+        "distance": "3994997.72",
+        "absolute-magnitude": "3.97"
+    },
+    {
+        "name": "Хадар 4834",
+        "constellation": "Козерог",
+        "spectral-class": "F7Z",
+        "radius": "526269689",
+        "rotation": "458.52",
+        "age": "4.4",
+        "distance": "7079954.2",
+        "absolute-magnitude": "9.9"
+    },
+    {
+        "name": "Бетельгейзе 1703",
+        "constellation": "Козерог",
+        "spectral-class": "A3N",
+        "radius": "517407437",
+        "rotation": "911.92",
+        "age": "3.23",
+        "distance": "7287837.42",
+        "absolute-magnitude": "9.25"
+    },
+    {
+        "name": "Антарес 5413",
+        "constellation": "Близнецы",
+        "spectral-class": "K8G",
+        "radius": "516675300",
+        "rotation": "294.21",
+        "age": "5.86",
+        "distance": "6559771.36",
+        "absolute-magnitude": "8.63"
+    },
+    {
+        "name": "Канопус 8466",
+        "constellation": "Рак",
+        "spectral-class": "B5P",
+        "radius": "515417847",
+        "rotation": "694.44",
+        "age": "5.79",
+        "distance": "7335211.29",
+        "absolute-magnitude": "1.25"
+    },
+    {
+        "name": "Хадар 3227",
+        "constellation": "Рыбы",
+        "spectral-class": "Q2W",
+        "radius": "512728912",
+        "rotation": "15.92",
+        "age": "4.93",
+        "distance": "3233300.21",
+        "absolute-magnitude": "5.44"
+    },
+    {
+        "name": "Хадар 1992",
+        "constellation": "Близнецы",
+        "spectral-class": "R9Y",
+        "radius": "512458676",
+        "rotation": "939.8",
+        "age": "4.21",
+        "distance": "5904967.25",
+        "absolute-magnitude": "4.55"
+    },
+    {
+        "name": "Бетельгейзе 4588",
+        "constellation": "Рыбы",
+        "spectral-class": "T6T",
+        "radius": "505387819",
+        "rotation": "847.56",
+        "age": "3.11",
+        "distance": "34268.21",
+        "absolute-magnitude": "5.46"
+    },
+    {
+        "name": "Бетельгейзе 2358",
+        "constellation": "Рак",
+        "spectral-class": "S4U",
+        "radius": "503213729",
+        "rotation": "372.99",
+        "age": "5.72",
+        "distance": "3170990.69",
+        "absolute-magnitude": "6.62"
+    },
+    {
+        "name": "Полярная звезда 6953",
+        "constellation": "Близнецы",
+        "spectral-class": "N5P",
+        "radius": "494612518",
+        "rotation": "47.06",
+        "age": "5.73",
+        "distance": "8872944.2",
+        "absolute-magnitude": "3.16"
+    },
+    {
+        "name": "Антарес 9491",
+        "constellation": "Стрелец",
+        "spectral-class": "Y2P",
+        "radius": "487918198",
+        "rotation": "961.89",
+        "age": "5.76",
+        "distance": "9034026.6",
+        "absolute-magnitude": "5.42"
+    },
+    {
+        "name": "Полярная звезда 4652",
+        "constellation": "Дева",
+        "spectral-class": "L3O",
+        "radius": "486266397",
+        "rotation": "432.1",
+        "age": "4.16",
+        "distance": "4486287.59",
+        "absolute-magnitude": "7.66"
+    },
+    {
+        "name": "Фомальгаут 4172",
+        "constellation": "Дева",
+        "spectral-class": "E0K",
+        "radius": "485847078",
+        "rotation": "338.16",
+        "age": "3.73",
+        "distance": "5298057.77",
+        "absolute-magnitude": "6.98"
+    },
+    {
+        "name": "Ригель 3158",
+        "constellation": "Лев",
+        "spectral-class": "J1Q",
+        "radius": "484322413",
+        "rotation": "296.75",
+        "age": "3.84",
+        "distance": "1174904.54",
+        "absolute-magnitude": "8.74"
+    },
+    {
+        "name": "Солнце 3510",
+        "constellation": "Лев",
+        "spectral-class": "S8Z",
+        "radius": "482536363",
+        "rotation": "20.93",
+        "age": "5.01",
+        "distance": "8114505.3",
+        "absolute-magnitude": "2.22"
+    },
+    {
+        "name": "Ригель 2498",
+        "constellation": "Скорпион",
+        "spectral-class": "A7C",
+        "radius": "482228489",
+        "rotation": "986.98",
+        "age": "5.59",
+        "distance": "1408224.05",
+        "absolute-magnitude": "8.46"
+    },
+    {
+        "name": "Фомалхаут 3356",
+        "constellation": "Телец",
+        "spectral-class": "U4H",
+        "radius": "474489409",
+        "rotation": "589.49",
+        "age": "5.76",
+        "distance": "1911281.67",
+        "absolute-magnitude": "2.91"
+    },
+    {
+        "name": "Фомальгаут 3640",
+        "constellation": "Весы",
+        "spectral-class": "W6F",
+        "radius": "472465850",
+        "rotation": "926.07",
+        "age": "4.39",
+        "distance": "5889163.53",
+        "absolute-magnitude": "2.26"
+    },
+    {
+        "name": "Антарес 8455",
+        "constellation": "Рыбы",
+        "spectral-class": "B4J",
+        "radius": "464211869",
+        "rotation": "97.88",
+        "age": "5.11",
+        "distance": "4709762.56",
+        "absolute-magnitude": "5.35"
+    },
+    {
+        "name": "Антарес 3944",
+        "constellation": "Близнецы",
+        "spectral-class": "I9D",
+        "radius": "460987115",
+        "rotation": "380.75",
+        "age": "4.07",
+        "distance": "4514787.21",
+        "absolute-magnitude": "3.34"
+    },
+    {
+        "name": "Хадар 8193",
+        "constellation": "Близнецы",
+        "spectral-class": "W3K",
+        "radius": "451777160",
+        "rotation": "837.57",
+        "age": "5.22",
+        "distance": "9316379.07",
+        "absolute-magnitude": "5.09"
+    },
+    {
+        "name": "Альфа Центавра 6920",
+        "constellation": "Водолей",
+        "spectral-class": "V5G",
+        "radius": "451688936",
+        "rotation": "978.75",
+        "age": "3.53",
+        "distance": "3944568.53",
+        "absolute-magnitude": "4.64"
+    },
+    {
+        "name": "Вега 8941",
+        "constellation": "Козерог",
+        "spectral-class": "P8N",
+        "radius": "448743939",
+        "rotation": "291.11",
+        "age": "3.82",
+        "distance": "2460517.49",
+        "absolute-magnitude": "1.9"
+    },
+    {
+        "name": "Акрукс 8847",
+        "constellation": "Рак",
+        "spectral-class": "E9A",
+        "radius": "444572973",
+        "rotation": "113.19",
+        "age": "4.38",
+        "distance": "699726.92",
+        "absolute-magnitude": "9.7"
+    },
+    {
+        "name": "Фомалхаут 9508",
+        "constellation": "Близнецы",
+        "spectral-class": "Q2D",
+        "radius": "443534245",
+        "rotation": "606.47",
+        "age": "3.77",
+        "distance": "9875044.7",
+        "absolute-magnitude": "2.11"
+    },
+    {
+        "name": "Фомальгаут 4267",
+        "constellation": "Близнецы",
+        "spectral-class": "W3W",
+        "radius": "438136286",
+        "rotation": "726.46",
+        "age": "5.33",
+        "distance": "2897175.95",
+        "absolute-magnitude": "6.13"
+    },
+    {
+        "name": "Фомалхаут 8246",
+        "constellation": "Скорпион",
+        "spectral-class": "W6E",
+        "radius": "435297150",
+        "rotation": "138.71",
+        "age": "3.5",
+        "distance": "7292864.33",
+        "absolute-magnitude": "8.58"
+    },
+    {
+        "name": "Акрукс 2777",
+        "constellation": "Весы",
+        "spectral-class": "N7D",
+        "radius": "434718009",
+        "rotation": "507.1",
+        "age": "3.53",
+        "distance": "7573936.25",
+        "absolute-magnitude": "7.22"
+    },
+    {
+        "name": "Солнце 2051",
+        "constellation": "Дева",
+        "spectral-class": "U3A",
+        "radius": "422041936",
+        "rotation": "697.77",
+        "age": "4.14",
+        "distance": "6970997.72",
+        "absolute-magnitude": "5.03"
+    },
+    {
+        "name": "Хадар 9928",
+        "constellation": "Лев",
+        "spectral-class": "X7S",
+        "radius": "410694439",
+        "rotation": "690.21",
+        "age": "3.98",
+        "distance": "5837568.58",
+        "absolute-magnitude": "4.87"
+    },
+    {
+        "name": "Бетельгейзе 1485",
+        "constellation": "Лев",
+        "spectral-class": "W5C",
+        "radius": "407465432",
+        "rotation": "351.58",
+        "age": "3.9",
+        "distance": "3616920.29",
+        "absolute-magnitude": "1.12"
+    },
+    {
+        "name": "Антарес 2007",
+        "constellation": "Весы",
+        "spectral-class": "A8F",
+        "radius": "406057257",
+        "rotation": "49.65",
+        "age": "3.57",
+        "distance": "5707476.94",
+        "absolute-magnitude": "8.95"
+    },
+    {
+        "name": "Ригель 3737",
+        "constellation": "Близнецы",
+        "spectral-class": "Q9J",
+        "radius": "394756003",
+        "rotation": "668.47",
+        "age": "3.14",
+        "distance": "6425953.64",
+        "absolute-magnitude": "1.22"
+    },
+    {
+        "name": "Солнце 7040",
+        "constellation": "Стрелец",
+        "spectral-class": "C2E",
+        "radius": "392212965",
+        "rotation": "831.43",
+        "age": "4.4",
+        "distance": "2201135.89",
+        "absolute-magnitude": "4.89"
+    },
+    {
+        "name": "Антарес 4237",
+        "constellation": "Близнецы",
+        "spectral-class": "W2U",
+        "radius": "390642494",
+        "rotation": "153.91",
+        "age": "4.25",
+        "distance": "7266958.9",
+        "absolute-magnitude": "1.74"
+    },
+    {
+        "name": "Фомалхаут 9369",
+        "constellation": "Козерог",
+        "spectral-class": "B1N",
+        "radius": "390032128",
+        "rotation": "492.65",
+        "age": "5.73",
+        "distance": "6494292.48",
+        "absolute-magnitude": "3.96"
+    },
+    {
+        "name": "Солнце 2915",
+        "constellation": "Овен",
+        "spectral-class": "U1E",
+        "radius": "379474083",
+        "rotation": "752.03",
+        "age": "5.77",
+        "distance": "9866430.01",
+        "absolute-magnitude": "1.53"
+    },
+    {
+        "name": "Солнце 1020",
+        "constellation": "Овен",
+        "spectral-class": "A2P",
+        "radius": "373003623",
+        "rotation": "361.56",
+        "age": "3.46",
+        "distance": "9391666.26",
+        "absolute-magnitude": "1.0"
+    },
+    {
+        "name": "Фомальгаут 9047",
+        "constellation": "Стрелец",
+        "spectral-class": "L9W",
+        "radius": "371782702",
+        "rotation": "959.59",
+        "age": "3.56",
+        "distance": "860285.49",
+        "absolute-magnitude": "3.6"
+    },
+    {
+        "name": "Антарес 5467",
+        "constellation": "Дева",
+        "spectral-class": "K9O",
+        "radius": "362442449",
+        "rotation": "697.14",
+        "age": "3.88",
+        "distance": "6387206.94",
+        "absolute-magnitude": "5.66"
+    },
+    {
+        "name": "Хадар 8713",
+        "constellation": "Близнецы",
+        "spectral-class": "Z9K",
+        "radius": "361711570",
+        "rotation": "380.38",
+        "age": "3.7",
+        "distance": "1084160.87",
+        "absolute-magnitude": "6.62"
+    },
+    {
+        "name": "Солнце 7387",
+        "constellation": "Близнецы",
+        "spectral-class": "J2Z",
+        "radius": "361418910",
+        "rotation": "354.1",
+        "age": "3.56",
+        "distance": "819714.75",
+        "absolute-magnitude": "4.2"
+    },
+    {
+        "name": "Полярная звезда 4895",
+        "constellation": "Лев",
+        "spectral-class": "A8O",
+        "radius": "355931763",
+        "rotation": "164.1",
+        "age": "3.45",
+        "distance": "2159659.83",
+        "absolute-magnitude": "3.4"
+    },
+    {
+        "name": "Хадар 2312",
+        "constellation": "Лев",
+        "spectral-class": "C4Q",
+        "radius": "343450973",
+        "rotation": "672.23",
+        "age": "3.11",
+        "distance": "3992562.32",
+        "absolute-magnitude": "9.91"
+    },
+    {
+        "name": "Солнце 9724",
+        "constellation": "Водолей",
+        "spectral-class": "Z3Z",
+        "radius": "333475881",
+        "rotation": "196.96",
+        "age": "3.17",
+        "distance": "3192820.38",
+        "absolute-magnitude": "6.04"
+    },
+    {
+        "name": "Альфа Центавра 3733",
+        "constellation": "Дева",
+        "spectral-class": "O1I",
+        "radius": "324753124",
+        "rotation": "774.55",
+        "age": "3.46",
+        "distance": "6778902.78",
+        "absolute-magnitude": "7.93"
+    },
+    {
+        "name": "Ригель 2804",
+        "constellation": "Козерог",
+        "spectral-class": "Z9J",
+        "radius": "323034747",
+        "rotation": "306.6",
+        "age": "3.39",
+        "distance": "4332401.25",
+        "absolute-magnitude": "9.26"
+    },
+    {
+        "name": "Канопус 5362",
+        "constellation": "Козерог",
+        "spectral-class": "I7T",
+        "radius": "322343458",
+        "rotation": "695.09",
+        "age": "4.05",
+        "distance": "7544336.92",
+        "absolute-magnitude": "8.71"
+    },
+    {
+        "name": "Ригель 6253",
+        "constellation": "Лев",
+        "spectral-class": "Q3X",
+        "radius": "321963242",
+        "rotation": "732.64",
+        "age": "5.58",
+        "distance": "9325329.12",
+        "absolute-magnitude": "2.21"
+    },
+    {
+        "name": "Канопус 3257",
+        "constellation": "Лев",
+        "spectral-class": "J9A",
+        "radius": "320893882",
+        "rotation": "260.73",
+        "age": "5.56",
+        "distance": "4775068.85",
+        "absolute-magnitude": "2.75"
+    },
+    {
+        "name": "Солнце 7991",
+        "constellation": "Телец",
+        "spectral-class": "P6H",
+        "radius": "319212785",
+        "rotation": "973.47",
+        "age": "5.17",
+        "distance": "9908219.9",
+        "absolute-magnitude": "3.98"
+    },
+    {
+        "name": "Фомальгаут 2532",
+        "constellation": "Водолей",
+        "spectral-class": "Z4K",
+        "radius": "315752047",
+        "rotation": "118.71",
+        "age": "5.66",
+        "distance": "1054971.02",
+        "absolute-magnitude": "1.15"
+    },
+    {
+        "name": "Ригель 6759",
+        "constellation": "Овен",
+        "spectral-class": "I3M",
+        "radius": "312234172",
+        "rotation": "401.16",
+        "age": "4.85",
+        "distance": "9113728.06",
+        "absolute-magnitude": "2.9"
+    },
+    {
+        "name": "Канопус 6438",
+        "constellation": "Водолей",
+        "spectral-class": "D7B",
+        "radius": "309522716",
+        "rotation": "660.28",
+        "age": "4.13",
+        "distance": "5286338.19",
+        "absolute-magnitude": "5.69"
+    },
+    {
+        "name": "Альфа Центавра 2124",
+        "constellation": "Козерог",
+        "spectral-class": "J2B",
+        "radius": "304204756",
+        "rotation": "28.7",
+        "age": "5.31",
+        "distance": "3311148.8",
+        "absolute-magnitude": "4.28"
+    },
+    {
+        "name": "Солнце 6675",
+        "constellation": "Рак",
+        "spectral-class": "E7J",
+        "radius": "301956772",
+        "rotation": "876.09",
+        "age": "3.12",
+        "distance": "3306523.84",
+        "absolute-magnitude": "4.13"
+    },
+    {
+        "name": "Фомалхаут 7306",
+        "constellation": "Дева",
+        "spectral-class": "E6M",
+        "radius": "298306797",
+        "rotation": "373.64",
+        "age": "5.19",
+        "distance": "9209401.04",
+        "absolute-magnitude": "3.03"
+    },
+    {
+        "name": "Альфа Центавра 1941",
+        "constellation": "Близнецы",
+        "spectral-class": "F4J",
+        "radius": "297769631",
+        "rotation": "157.2",
+        "age": "4.27",
+        "distance": "7213787.15",
+        "absolute-magnitude": "2.93"
+    },
+    {
+        "name": "Бетельгейзе 1883",
+        "constellation": "Козерог",
+        "spectral-class": "L9M",
+        "radius": "291145658",
+        "rotation": "762.43",
+        "age": "4.54",
+        "distance": "2635918.62",
+        "absolute-magnitude": "9.04"
+    },
+    {
+        "name": "Бетельгейзе 8754",
+        "constellation": "Лев",
+        "spectral-class": "C7I",
+        "radius": "281696990",
+        "rotation": "525.91",
+        "age": "5.32",
+        "distance": "6733447.36",
+        "absolute-magnitude": "7.54"
+    },
+    {
+        "name": "Полярная звезда 5915",
+        "constellation": "Рак",
+        "spectral-class": "G4Z",
+        "radius": "281685407",
+        "rotation": "222.47",
+        "age": "5.98",
+        "distance": "7368387.84",
+        "absolute-magnitude": "8.75"
+    },
+    {
+        "name": "Солнце 4904",
+        "constellation": "Рак",
+        "spectral-class": "K8A",
+        "radius": "281538277",
+        "rotation": "921.31",
+        "age": "4.92",
+        "distance": "1395300.37",
+        "absolute-magnitude": "5.98"
+    },
+    {
+        "name": "Антарес 1983",
+        "constellation": "Рыбы",
+        "spectral-class": "K6C",
+        "radius": "277455124",
+        "rotation": "806.77",
+        "age": "4.36",
+        "distance": "8742062.43",
+        "absolute-magnitude": "3.82"
+    },
+    {
+        "name": "Акрукс 5061",
+        "constellation": "Рак",
+        "spectral-class": "X3T",
+        "radius": "274268328",
+        "rotation": "411.33",
+        "age": "5.05",
+        "distance": "4049951.72",
+        "absolute-magnitude": "6.02"
+    },
+    {
+        "name": "Канопус 1772",
+        "constellation": "Телец",
+        "spectral-class": "S0V",
+        "radius": "272702971",
+        "rotation": "575.0",
+        "age": "3.09",
+        "distance": "6602353.68",
+        "absolute-magnitude": "3.59"
+    },
+    {
+        "name": "Канопус 7219",
+        "constellation": "Козерог",
+        "spectral-class": "V5Q",
+        "radius": "264570501",
+        "rotation": "930.87",
+        "age": "5.17",
+        "distance": "3269971.03",
+        "absolute-magnitude": "8.69"
+    },
+    {
+        "name": "Фомальгаут 5740",
+        "constellation": "Весы",
+        "spectral-class": "B8S",
+        "radius": "261746098",
+        "rotation": "224.48",
+        "age": "3.41",
+        "distance": "2321291.63",
+        "absolute-magnitude": "2.4"
+    },
+    {
+        "name": "Хадар 2685",
+        "constellation": "Козерог",
+        "spectral-class": "L7K",
+        "radius": "254971343",
+        "rotation": "808.83",
+        "age": "4.11",
+        "distance": "6603634.45",
+        "absolute-magnitude": "4.09"
+    },
+    {
+        "name": "Бетельгейзе 4628",
+        "constellation": "Овен",
+        "spectral-class": "D4L",
+        "radius": "243575698",
+        "rotation": "794.9",
+        "age": "5.05",
+        "distance": "2861357.07",
+        "absolute-magnitude": "6.01"
+    },
+    {
+        "name": "Полярная звезда 7140",
+        "constellation": "Близнецы",
+        "spectral-class": "V4X",
+        "radius": "239236038",
+        "rotation": "892.17",
+        "age": "4.63",
+        "distance": "5094116.37",
+        "absolute-magnitude": "5.09"
+    },
+    {
+        "name": "Ригель 9377",
+        "constellation": "Рыбы",
+        "spectral-class": "J9C",
+        "radius": "236205485",
+        "rotation": "139.96",
+        "age": "5.14",
+        "distance": "4887365.68",
+        "absolute-magnitude": "3.85"
+    },
+    {
+        "name": "Канопус 1585",
+        "constellation": "Весы",
+        "spectral-class": "H4J",
+        "radius": "230932789",
+        "rotation": "269.08",
+        "age": "4.84",
+        "distance": "3656891.75",
+        "absolute-magnitude": "3.63"
+    },
+    {
+        "name": "Полярная звезда 4442",
+        "constellation": "Водолей",
+        "spectral-class": "D7D",
+        "radius": "228131511",
+        "rotation": "363.64",
+        "age": "3.02",
+        "distance": "9831674.56",
+        "absolute-magnitude": "3.06"
+    },
+    {
+        "name": "Вега 5124",
+        "constellation": "Рыбы",
+        "spectral-class": "J0B",
+        "radius": "226040726",
+        "rotation": "606.61",
+        "age": "3.53",
+        "distance": "79135.82",
+        "absolute-magnitude": "6.91"
+    },
+    {
+        "name": "Бетельгейзе 8098",
+        "constellation": "Овен",
+        "spectral-class": "T0G",
+        "radius": "222162777",
+        "rotation": "849.91",
+        "age": "4.34",
+        "distance": "5609269.64",
+        "absolute-magnitude": "6.74"
+    },
+    {
+        "name": "Солнце 4393",
+        "constellation": "Водолей",
+        "spectral-class": "D7H",
+        "radius": "221955941",
+        "rotation": "622.22",
+        "age": "4.31",
+        "distance": "7544604.78",
+        "absolute-magnitude": "2.44"
+    },
+    {
+        "name": "Фомальгаут 6960",
+        "constellation": "Лев",
+        "spectral-class": "K6C",
+        "radius": "212928387",
+        "rotation": "37.71",
+        "age": "4.88",
+        "distance": "1535371.3",
+        "absolute-magnitude": "8.96"
+    },
+    {
+        "name": "Полярная звезда 4335",
+        "constellation": "Весы",
+        "spectral-class": "O4P",
+        "radius": "211544705",
+        "rotation": "989.05",
+        "age": "4.48",
+        "distance": "1024504.05",
+        "absolute-magnitude": "6.27"
+    },
+    {
+        "name": "Антарес 2824",
+        "constellation": "Водолей",
+        "spectral-class": "B3E",
+        "radius": "208535975",
+        "rotation": "422.49",
+        "age": "3.72",
+        "distance": "2664153.28",
+        "absolute-magnitude": "2.83"
+    },
+    {
+        "name": "Бетельгейзе 9827",
+        "constellation": "Телец",
+        "spectral-class": "P0G",
+        "radius": "198196673",
+        "rotation": "234.45",
+        "age": "4.88",
+        "distance": "4059314.07",
+        "absolute-magnitude": "5.82"
+    },
+    {
+        "name": "Фомалхаут 6888",
+        "constellation": "Рыбы",
+        "spectral-class": "M8Z",
+        "radius": "195422627",
+        "rotation": "551.58",
+        "age": "5.48",
+        "distance": "5296134.4",
+        "absolute-magnitude": "3.72"
+    },
+    {
+        "name": "Антарес 2190",
+        "constellation": "Рыбы",
+        "spectral-class": "H0U",
+        "radius": "188499932",
+        "rotation": "607.36",
+        "age": "3.3",
+        "distance": "9230830.49",
+        "absolute-magnitude": "3.65"
+    },
+    {
+        "name": "Фомалхаут 6340",
+        "constellation": "Овен",
+        "spectral-class": "H1M",
+        "radius": "186640405",
+        "rotation": "504.17",
+        "age": "3.52",
+        "distance": "7956028.41",
+        "absolute-magnitude": "1.17"
+    },
+    {
+        "name": "Солнце 7431",
+        "constellation": "Близнецы",
+        "spectral-class": "H5G",
+        "radius": "186019928",
+        "rotation": "468.26",
+        "age": "3.7",
+        "distance": "2836891.09",
+        "absolute-magnitude": "3.85"
+    },
+    {
+        "name": "Вега 5506",
+        "constellation": "Весы",
+        "spectral-class": "I9U",
+        "radius": "182157540",
+        "rotation": "739.47",
+        "age": "4.24",
+        "distance": "6366200.15",
+        "absolute-magnitude": "8.78"
+    },
+    {
+        "name": "Бетельгейзе 6603",
+        "constellation": "Козерог",
+        "spectral-class": "J4U",
+        "radius": "180054873",
+        "rotation": "201.76",
+        "age": "5.26",
+        "distance": "5160745.24",
+        "absolute-magnitude": "8.81"
+    },
+    {
+        "name": "Хадар 1154",
+        "constellation": "Дева",
+        "spectral-class": "K9B",
+        "radius": "179249449",
+        "rotation": "47.7",
+        "age": "5.96",
+        "distance": "7897332.06",
+        "absolute-magnitude": "9.71"
+    },
+    {
+        "name": "Хадар 3784",
+        "constellation": "Скорпион",
+        "spectral-class": "V0J",
+        "radius": "177883080",
+        "rotation": "273.39",
+        "age": "5.4",
+        "distance": "9075466.69",
+        "absolute-magnitude": "6.83"
+    },
+    {
+        "name": "Акрукс 3930",
+        "constellation": "Близнецы",
+        "spectral-class": "K3S",
+        "radius": "169405063",
+        "rotation": "851.35",
+        "age": "4.28",
+        "distance": "4390874.55",
+        "absolute-magnitude": "8.12"
+    },
+    {
+        "name": "Солнце 1224",
+        "constellation": "Рак",
+        "spectral-class": "L2A",
+        "radius": "168976873",
+        "rotation": "167.61",
+        "age": "3.79",
+        "distance": "8984447.07",
+        "absolute-magnitude": "2.73"
+    },
+    {
+        "name": "Фомалхаут 9535",
+        "constellation": "Телец",
+        "spectral-class": "G7F",
+        "radius": "167964576",
+        "rotation": "572.92",
+        "age": "5.13",
+        "distance": "4917965.41",
+        "absolute-magnitude": "7.82"
+    },
+    {
+        "name": "Ригель 7986",
+        "constellation": "Овен",
+        "spectral-class": "Z8G",
+        "radius": "166118579",
+        "rotation": "762.0",
+        "age": "5.99",
+        "distance": "2428696.41",
+        "absolute-magnitude": "3.74"
+    },
+    {
+        "name": "Канопус 3631",
+        "constellation": "Стрелец",
+        "spectral-class": "D3F",
+        "radius": "164805619",
+        "rotation": "760.49",
+        "age": "5.58",
+        "distance": "3576839.45",
+        "absolute-magnitude": "8.23"
+    },
+    {
+        "name": "Полярная звезда 4766",
+        "constellation": "Дева",
+        "spectral-class": "V2Y",
+        "radius": "162063199",
+        "rotation": "684.97",
+        "age": "3.25",
+        "distance": "9218436.71",
+        "absolute-magnitude": "9.97"
+    },
+    {
+        "name": "Фомальгаут 9983",
+        "constellation": "Овен",
+        "spectral-class": "X5M",
+        "radius": "160634346",
+        "rotation": "163.24",
+        "age": "5.21",
+        "distance": "8897021.54",
+        "absolute-magnitude": "1.23"
+    },
+    {
+        "name": "Солнце 1294",
+        "constellation": "Лев",
+        "spectral-class": "D2H",
+        "radius": "159927536",
+        "rotation": "629.63",
+        "age": "5.45",
+        "distance": "3618659.9",
+        "absolute-magnitude": "1.6"
+    },
+    {
+        "name": "Альфа Центавра 2686",
+        "constellation": "Овен",
+        "spectral-class": "D7O",
+        "radius": "157113581",
+        "rotation": "812.09",
+        "age": "4.42",
+        "distance": "1340765.53",
+        "absolute-magnitude": "4.91"
+    },
+    {
+        "name": "Бетельгейзе 5498",
+        "constellation": "Рыбы",
+        "spectral-class": "R7B",
+        "radius": "153490660",
+        "rotation": "988.88",
+        "age": "5.29",
+        "distance": "2455003.58",
+        "absolute-magnitude": "7.36"
+    },
+    {
+        "name": "Антарес 2795",
+        "constellation": "Рак",
+        "spectral-class": "F8H",
+        "radius": "153206141",
+        "rotation": "814.46",
+        "age": "4.9",
+        "distance": "8521787.46",
+        "absolute-magnitude": "1.22"
+    },
+    {
+        "name": "Бетельгейзе 5634",
+        "constellation": "Стрелец",
+        "spectral-class": "M4R",
+        "radius": "150915020",
+        "rotation": "385.91",
+        "age": "5.89",
+        "distance": "4814913.78",
+        "absolute-magnitude": "4.42"
+    },
+    {
+        "name": "Фомалхаут 7999",
+        "constellation": "Овен",
+        "spectral-class": "Z5D",
+        "radius": "143150622",
+        "rotation": "241.09",
+        "age": "4.16",
+        "distance": "9700473.22",
+        "absolute-magnitude": "4.18"
+    },
+    {
+        "name": "Хадар 9560",
+        "constellation": "Козерог",
+        "spectral-class": "P2Z",
+        "radius": "141880485",
+        "rotation": "6.71",
+        "age": "4.18",
+        "distance": "4934133.3",
+        "absolute-magnitude": "4.53"
+    },
+    {
+        "name": "Альфа Центавра 6741",
+        "constellation": "Водолей",
+        "spectral-class": "O4Z",
+        "radius": "134557709",
+        "rotation": "816.14",
+        "age": "5.77",
+        "distance": "6031719.18",
+        "absolute-magnitude": "6.18"
+    },
+    {
+        "name": "Фомальгаут 3931",
+        "constellation": "Близнецы",
+        "spectral-class": "C8G",
+        "radius": "132274285",
+        "rotation": "505.34",
+        "age": "3.22",
+        "distance": "7657496.52",
+        "absolute-magnitude": "3.53"
+    },
+    {
+        "name": "Фомалхаут 6854",
+        "constellation": "Телец",
+        "spectral-class": "O2G",
+        "radius": "129930411",
+        "rotation": "175.45",
+        "age": "5.31",
+        "distance": "8320643.58",
+        "absolute-magnitude": "6.72"
+    },
+    {
+        "name": "Фомальгаут 2707",
+        "constellation": "Козерог",
+        "spectral-class": "W5D",
+        "radius": "124106190",
+        "rotation": "990.23",
+        "age": "3.75",
+        "distance": "7555356.81",
+        "absolute-magnitude": "4.6"
+    },
+    {
+        "name": "Ригель 4547",
+        "constellation": "Овен",
+        "spectral-class": "Y9U",
+        "radius": "121342249",
+        "rotation": "630.95",
+        "age": "3.33",
+        "distance": "8576758.24",
+        "absolute-magnitude": "6.12"
+    },
+    {
+        "name": "Канопус 1833",
+        "constellation": "Близнецы",
+        "spectral-class": "C6X",
+        "radius": "119913507",
+        "rotation": "378.68",
+        "age": "3.5",
+        "distance": "7640453.26",
+        "absolute-magnitude": "3.43"
+    },
+    {
+        "name": "Вега 5553",
+        "constellation": "Рыбы",
+        "spectral-class": "P4T",
+        "radius": "114649426",
+        "rotation": "324.2",
+        "age": "4.53",
+        "distance": "5830316.28",
+        "absolute-magnitude": "4.34"
+    },
+    {
+        "name": "Антарес 8896",
+        "constellation": "Весы",
+        "spectral-class": "S1I",
+        "radius": "109838253",
+        "rotation": "348.38",
+        "age": "4.0",
+        "distance": "6021963.77",
+        "absolute-magnitude": "3.42"
+    },
+    {
+        "name": "Ригель 2598",
+        "constellation": "Козерог",
+        "spectral-class": "K8R",
+        "radius": "109144914",
+        "rotation": "546.76",
+        "age": "5.73",
+        "distance": "7500963.13",
+        "absolute-magnitude": "4.92"
+    },
+    {
+        "name": "Полярная звезда 9411",
+        "constellation": "Скорпион",
+        "spectral-class": "W7H",
+        "radius": "108828038",
+        "rotation": "407.95",
+        "age": "4.37",
+        "distance": "8724772.06",
+        "absolute-magnitude": "4.56"
+    },
+    {
+        "name": "Полярная звезда 9126",
+        "constellation": "Рак",
+        "spectral-class": "S7K",
+        "radius": "104280716",
+        "rotation": "584.83",
+        "age": "5.68",
+        "distance": "4772772.21",
+        "absolute-magnitude": "6.11"
+    },
+    {
+        "name": "Фомалхаут 7103",
+        "constellation": "Весы",
+        "spectral-class": "K6F",
+        "radius": "99303246",
+        "rotation": "155.01",
+        "age": "3.77",
+        "distance": "9616012.24",
+        "absolute-magnitude": "6.74"
+    },
+    {
+        "name": "Бетельгейзе 6105",
+        "constellation": "Стрелец",
+        "spectral-class": "S1W",
+        "radius": "98769665",
+        "rotation": "941.25",
+        "age": "3.66",
+        "distance": "2188739.52",
+        "absolute-magnitude": "1.89"
+    },
+    {
+        "name": "Солнце 6012",
+        "constellation": "Водолей",
+        "spectral-class": "O2U",
+        "radius": "96246603",
+        "rotation": "816.61",
+        "age": "3.26",
+        "distance": "3569449.4",
+        "absolute-magnitude": "9.89"
+    },
+    {
+        "name": "Альфа Центавра 6272",
+        "constellation": "Лев",
+        "spectral-class": "A8C",
+        "radius": "93080351",
+        "rotation": "584.83",
+        "age": "3.44",
+        "distance": "4734599.9",
+        "absolute-magnitude": "4.28"
+    },
+    {
+        "name": "Вега 4242",
+        "constellation": "Овен",
+        "spectral-class": "J4J",
+        "radius": "92195202",
+        "rotation": "457.75",
+        "age": "3.6",
+        "distance": "4846703.4",
+        "absolute-magnitude": "3.87"
+    },
+    {
+        "name": "Фомалхаут 6635",
+        "constellation": "Лев",
+        "spectral-class": "E6Z",
+        "radius": "79946545",
+        "rotation": "387.93",
+        "age": "3.88",
+        "distance": "4283962.78",
+        "absolute-magnitude": "3.35"
+    },
+    {
+        "name": "Антарес 1068",
+        "constellation": "Овен",
+        "spectral-class": "P5F",
+        "radius": "76681932",
+        "rotation": "367.52",
+        "age": "4.08",
+        "distance": "7289922.3",
+        "absolute-magnitude": "4.49"
+    },
+    {
+        "name": "Канопус 9346",
+        "constellation": "Рак",
+        "spectral-class": "A6X",
+        "radius": "73172767",
+        "rotation": "738.86",
+        "age": "5.64",
+        "distance": "6908624.56",
+        "absolute-magnitude": "7.39"
+    },
+    {
+        "name": "Ригель 8674",
+        "constellation": "Рыбы",
+        "spectral-class": "Q0C",
+        "radius": "71920767",
+        "rotation": "909.29",
+        "age": "3.65",
+        "distance": "5117424.81",
+        "absolute-magnitude": "9.64"
+    },
+    {
+        "name": "Ригель 9338",
+        "constellation": "Рак",
+        "spectral-class": "B6P",
+        "radius": "63840728",
+        "rotation": "149.96",
+        "age": "4.59",
+        "distance": "8063146.08",
+        "absolute-magnitude": "4.84"
+    },
+    {
+        "name": "Канопус 6496",
+        "constellation": "Водолей",
+        "spectral-class": "F4F",
+        "radius": "59618376",
+        "rotation": "747.1",
+        "age": "5.42",
+        "distance": "4650277.13",
+        "absolute-magnitude": "7.24"
+    },
+    {
+        "name": "Ригель 6824",
+        "constellation": "Весы",
+        "spectral-class": "Q8F",
+        "radius": "56893700",
+        "rotation": "484.2",
+        "age": "3.52",
+        "distance": "6270134.95",
+        "absolute-magnitude": "2.98"
+    },
+    {
+        "name": "Фомалхаут 7146",
+        "constellation": "Козерог",
+        "spectral-class": "R7K",
+        "radius": "55828829",
+        "rotation": "758.38",
+        "age": "5.78",
+        "distance": "3194003.14",
+        "absolute-magnitude": "6.54"
+    },
+    {
+        "name": "Солнце 6876",
+        "constellation": "Телец",
+        "spectral-class": "M6B",
+        "radius": "55682054",
+        "rotation": "227.31",
+        "age": "4.59",
+        "distance": "3452347.89",
+        "absolute-magnitude": "5.59"
+    },
+    {
+        "name": "Бетельгейзе 8709",
+        "constellation": "Весы",
+        "spectral-class": "A2H",
+        "radius": "49905873",
+        "rotation": "766.82",
+        "age": "3.81",
+        "distance": "2353142.26",
+        "absolute-magnitude": "6.34"
+    },
+    {
+        "name": "Фомальгаут 3084",
+        "constellation": "Рак",
+        "spectral-class": "J5X",
+        "radius": "49900329",
+        "rotation": "45.53",
+        "age": "3.51",
+        "distance": "9501437.06",
+        "absolute-magnitude": "1.65"
+    },
+    {
+        "name": "Ригель 2431",
+        "constellation": "Телец",
+        "spectral-class": "Q5G",
+        "radius": "42490328",
+        "rotation": "141.35",
+        "age": "3.96",
+        "distance": "1030129.47",
+        "absolute-magnitude": "2.93"
+    },
+    {
+        "name": "Ригель 6450",
+        "constellation": "Рак",
+        "spectral-class": "H3M",
+        "radius": "40566570",
+        "rotation": "104.46",
+        "age": "4.37",
+        "distance": "4159114.71",
+        "absolute-magnitude": "3.59"
+    },
+    {
+        "name": "Хадар 7480",
+        "constellation": "Рак",
+        "spectral-class": "Y0I",
+        "radius": "40423551",
+        "rotation": "132.89",
+        "age": "4.51",
+        "distance": "6714721.45",
+        "absolute-magnitude": "5.99"
+    },
+    {
+        "name": "Хадар 1499",
+        "constellation": "Рыбы",
+        "spectral-class": "T9H",
+        "radius": "39612501",
+        "rotation": "347.58",
+        "age": "5.35",
+        "distance": "4947961.36",
+        "absolute-magnitude": "9.75"
+    },
+    {
+        "name": "Фомалхаут 4533",
+        "constellation": "Козерог",
+        "spectral-class": "I0B",
+        "radius": "37546957",
+        "rotation": "162.65",
+        "age": "3.87",
+        "distance": "3281900.37",
+        "absolute-magnitude": "4.23"
+    },
+    {
+        "name": "Фомалхаут 2166",
+        "constellation": "Дева",
+        "spectral-class": "Y2V",
+        "radius": "32528379",
+        "rotation": "797.27",
+        "age": "3.34",
+        "distance": "2165583.41",
+        "absolute-magnitude": "7.84"
+    },
+    {
+        "name": "Антарес 6582",
+        "constellation": "Рак",
+        "spectral-class": "Y7T",
+        "radius": "31887737",
+        "rotation": "159.02",
+        "age": "5.39",
+        "distance": "3288884.74",
+        "absolute-magnitude": "9.93"
+    },
+    {
+        "name": "Полярная звезда 2949",
+        "constellation": "Близнецы",
+        "spectral-class": "J6J",
+        "radius": "23599517",
+        "rotation": "659.59",
+        "age": "5.56",
+        "distance": "7722611.36",
+        "absolute-magnitude": "6.33"
+    },
+    {
+        "name": "Акрукс 7613",
+        "constellation": "Рыбы",
+        "spectral-class": "P6U",
+        "radius": "15473343",
+        "rotation": "606.25",
+        "age": "5.31",
+        "distance": "7344974.58",
+        "absolute-magnitude": "3.05"
+    },
+    {
+        "name": "Канопус 1528",
+        "constellation": "Рыбы",
+        "spectral-class": "Y9R",
+        "radius": "5579725",
+        "rotation": "182.98",
+        "age": "4.39",
+        "distance": "9933557.07",
+        "absolute-magnitude": "9.95"
+    },
+    {
+        "name": "Ригель 6583",
+        "constellation": "Водолей",
+        "spectral-class": "C2F",
+        "radius": "5244706",
+        "rotation": "594.53",
+        "age": "5.02",
+        "distance": "5031373.63",
+        "absolute-magnitude": "6.0"
+    },
+    {
+        "name": "Вега 7485",
+        "constellation": "Близнецы",
+        "spectral-class": "C3V",
+        "radius": "4933402",
+        "rotation": "942.48",
+        "age": "5.1",
+        "distance": "7374467.46",
+        "absolute-magnitude": "2.05"
+    },
+    {
+        "name": "Полярная звезда 6767",
+        "constellation": "Козерог",
+        "spectral-class": "J3A",
+        "radius": "3511110",
+        "rotation": "828.06",
+        "age": "5.92",
+        "distance": "8524627.58",
+        "absolute-magnitude": "2.65"
+    }
+]
