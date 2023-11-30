@@ -1,0 +1,731 @@
+[
+    {
+        "id": 526,
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "duration_ms": 417920,
+        "year": 2018,
+        "tempo": 96.507,
+        "genre": "latin"
+    },
+    {
+        "id": 1050,
+        "artist": "Lil' Kim",
+        "song": "Magic Stick",
+        "duration_ms": 359973,
+        "year": 2019,
+        "tempo": 92.98,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1879,
+        "artist": "Migos",
+        "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "duration_ms": 343150,
+        "year": 2017,
+        "tempo": 127.079,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1280,
+        "artist": "Rae Sremmurd",
+        "song": "Powerglide (feat. Juicy J) - From SR3MM",
+        "duration_ms": 332300,
+        "year": 2018,
+        "tempo": 173.948,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 61,
+        "artist": "Future",
+        "song": "Low Life (feat. The Weeknd)",
+        "duration_ms": 313546,
+        "year": 2016,
+        "tempo": 143.961,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1437,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": 2018,
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 1476,
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "duration_ms": 312820,
+        "year": 2018,
+        "tempo": 155.008,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 1644,
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "duration_ms": 304041,
+        "year": 2017,
+        "tempo": 141.967,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 190,
+        "artist": "Migos",
+        "song": "MotorSport",
+        "duration_ms": 303076,
+        "year": 2018,
+        "tempo": 137.996,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 118,
+        "artist": "Hugh Jackman",
+        "song": "The Greatest Show",
+        "duration_ms": 302146,
+        "year": 2017,
+        "tempo": 157.92,
+        "genre": "easy listening"
+    },
+    {
+        "id": 512,
+        "artist": "Anuel AA",
+        "song": "China",
+        "duration_ms": 301714,
+        "year": 2019,
+        "tempo": 105.027,
+        "genre": "latin"
+    },
+    {
+        "id": 1361,
+        "artist": "MGMT",
+        "song": "Little Dark Age",
+        "duration_ms": 299960,
+        "year": 2018,
+        "tempo": 97.512,
+        "genre": "rock"
+    },
+    {
+        "id": 1968,
+        "artist": "Drake",
+        "song": "Passionfruit",
+        "duration_ms": 298940,
+        "year": 2017,
+        "tempo": 111.98,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1128,
+        "artist": "Nelly",
+        "song": "Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster",
+        "duration_ms": 293666,
+        "year": 2016,
+        "tempo": 87.025,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1899,
+        "artist": "Rae Sremmurd",
+        "song": "Black Beatles",
+        "duration_ms": 291893,
+        "year": 2016,
+        "tempo": 145.926,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1783,
+        "artist": "21 Savage",
+        "song": "a lot",
+        "duration_ms": 288624,
+        "year": 2018,
+        "tempo": 145.972,
+        "genre": "hip hop"
+    },
+    {
+        "id": 443,
+        "artist": "Yo Gotti",
+        "song": "Rake It Up (feat. Nicki Minaj)",
+        "duration_ms": 276333,
+        "year": 2017,
+        "tempo": 149.953,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 831,
+        "artist": "Migos",
+        "song": "Walk It Talk It",
+        "duration_ms": 276147,
+        "year": 2018,
+        "tempo": 145.914,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1347,
+        "artist": "Aaliyah",
+        "song": "Rock The Boat",
+        "duration_ms": 275026,
+        "year": 2019,
+        "tempo": 92.988,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 688,
+        "artist": "Marshmello",
+        "song": "Alone",
+        "duration_ms": 273802,
+        "year": 2016,
+        "tempo": 141.99,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 577,
+        "artist": "Kygo",
+        "song": "Firestone",
+        "duration_ms": 271640,
+        "year": 2016,
+        "tempo": 113.927,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1500,
+        "artist": "Lemaitre",
+        "song": "Closer",
+        "duration_ms": 270589,
+        "year": 2017,
+        "tempo": 91.977,
+        "genre": "pop"
+    },
+    {
+        "id": 828,
+        "artist": "The Weeknd",
+        "song": "I Feel It Coming",
+        "duration_ms": 269186,
+        "year": 2016,
+        "tempo": 92.987,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1228,
+        "artist": "G-Eazy",
+        "song": "Him & I",
+        "duration_ms": 268866,
+        "year": 2017,
+        "tempo": 87.908,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1802,
+        "artist": "G-Eazy",
+        "song": "Him & I (with Halsey)",
+        "duration_ms": 268866,
+        "year": 2017,
+        "tempo": 87.908,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1725,
+        "artist": "Kodak Black",
+        "song": "Tunnel Vision",
+        "duration_ms": 268186,
+        "year": 2017,
+        "tempo": 171.853,
+        "genre": "hip hop"
+    },
+    {
+        "id": 310,
+        "artist": "Drake",
+        "song": "Hotline Bling",
+        "duration_ms": 267066,
+        "year": 2016,
+        "tempo": 134.96,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 631,
+        "artist": "Drake",
+        "song": "Hotline Bling",
+        "duration_ms": 267066,
+        "year": 2016,
+        "tempo": 134.966,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1704,
+        "artist": "Lunay",
+        "song": "Soltera - Remix",
+        "duration_ms": 266086,
+        "year": 2019,
+        "tempo": 92.01,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 1458,
+        "artist": "Lana Del Rey",
+        "song": "Lust for Life (with The Weeknd)",
+        "duration_ms": 264011,
+        "year": 2017,
+        "tempo": 99.979,
+        "genre": "pop"
+    },
+    {
+        "id": 595,
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "duration_ms": 263400,
+        "year": 2017,
+        "tempo": 95.05,
+        "genre": "pop"
+    },
+    {
+        "id": 1323,
+        "artist": "Drake",
+        "song": "Too Good",
+        "duration_ms": 263373,
+        "year": 2016,
+        "tempo": 117.996,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1348,
+        "artist": "K-Ci & JoJo",
+        "song": "Crazy",
+        "duration_ms": 262773,
+        "year": 2019,
+        "tempo": 116.097,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1587,
+        "artist": "Flume",
+        "song": "Say It",
+        "duration_ms": 262521,
+        "year": 2016,
+        "tempo": 75.255,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 600,
+        "artist": "Hinder",
+        "song": "Lips Of An Angel",
+        "duration_ms": 261053,
+        "year": 2019,
+        "tempo": 129.005,
+        "genre": "pop, rock, metal"
+    },
+    {
+        "id": 743,
+        "artist": "DJ Khaled",
+        "song": "No Brainer",
+        "duration_ms": 260000,
+        "year": 2018,
+        "tempo": 135.702,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1960,
+        "artist": "Anuel AA",
+        "song": "Secreto",
+        "duration_ms": 258800,
+        "year": 2019,
+        "tempo": 91.987,
+        "genre": "latin"
+    },
+    {
+        "id": 833,
+        "artist": "Mario Winans",
+        "song": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
+        "duration_ms": 257333,
+        "year": 2016,
+        "tempo": 97.007,
+        "genre": "pop"
+    },
+    {
+        "id": 1193,
+        "artist": "Paulo Londra",
+        "song": "Adan y Eva",
+        "duration_ms": 256971,
+        "year": 2019,
+        "tempo": 171.993,
+        "genre": "hip hop, latin, Dance/Electronic"
+    },
+    {
+        "id": 1724,
+        "artist": "Illy",
+        "song": "Papercuts (feat. Vera Blue)",
+        "duration_ms": 255889,
+        "year": 2016,
+        "tempo": 191.863,
+        "genre": "hip hop, pop, Dance/Electronic"
+    },
+    {
+        "id": 1526,
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "duration_ms": 253390,
+        "year": 2018,
+        "tempo": 136.048,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 822,
+        "artist": "Russ Millions",
+        "song": "Keisha & Becky - Remix",
+        "duration_ms": 252906,
+        "year": 2019,
+        "tempo": 140.969,
+        "genre": "pop"
+    },
+    {
+        "id": 556,
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "duration_ms": 251088,
+        "year": 2016,
+        "tempo": 101.965,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1258,
+        "artist": "Garrett Nash",
+        "song": "i hate u, i love u (feat. olivia o'brien)",
+        "duration_ms": 251033,
+        "year": 2016,
+        "tempo": 92.6,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1981,
+        "artist": "Bad Bunny",
+        "song": "Callaita",
+        "duration_ms": 250533,
+        "year": 2019,
+        "tempo": 176.169,
+        "genre": "latin"
+    },
+    {
+        "id": 1789,
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "duration_ms": 247160,
+        "year": 2017,
+        "tempo": 103.019,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1221,
+        "artist": "Desiigner",
+        "song": "Panda",
+        "duration_ms": 246761,
+        "year": 2016,
+        "tempo": 144.833,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 41,
+        "artist": "Little Mix",
+        "song": "Shout Out to My Ex",
+        "duration_ms": 246240,
+        "year": 2017,
+        "tempo": 126.014,
+        "genre": "pop"
+    },
+    {
+        "id": 497,
+        "artist": "Liam Payne",
+        "song": "For You (Fifty Shades Freed) (& Rita Ora)",
+        "duration_ms": 245453,
+        "year": 2018,
+        "tempo": 113.0,
+        "genre": "pop"
+    },
+    {
+        "id": 527,
+        "artist": "G-Eazy",
+        "song": "No Limit",
+        "duration_ms": 245386,
+        "year": 2017,
+        "tempo": 175.957,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 691,
+        "artist": "ZAYN",
+        "song": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+        "duration_ms": 245200,
+        "year": 2016,
+        "tempo": 117.973,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 362,
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "duration_ms": 244960,
+        "year": 2016,
+        "tempo": 95.01,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1025,
+        "artist": "Angie Martinez",
+        "song": "If I Could Go! (feat. Lil' Mo & Sacario)",
+        "duration_ms": 244466,
+        "year": 2019,
+        "tempo": 195.685,
+        "genre": "pop"
+    },
+    {
+        "id": 371,
+        "artist": "Ariana Grande",
+        "song": "Into You",
+        "duration_ms": 244453,
+        "year": 2016,
+        "tempo": 107.853,
+        "genre": "pop"
+    },
+    {
+        "id": 1861,
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "duration_ms": 243836,
+        "year": 2016,
+        "tempo": 130.049,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 483,
+        "artist": "Lil Wayne",
+        "song": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "duration_ms": 243490,
+        "year": 2016,
+        "tempo": 169.021,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 496,
+        "artist": "Migos",
+        "song": "T-Shirt",
+        "duration_ms": 242407,
+        "year": 2017,
+        "tempo": 139.023,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1174,
+        "artist": "Burak Yeter",
+        "song": "Tuesday (feat. Danelle Sandoval)",
+        "duration_ms": 241874,
+        "year": 2016,
+        "tempo": 99.002,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 1600,
+        "artist": "Dave",
+        "song": "Location (feat. Burna Boy)",
+        "duration_ms": 241293,
+        "year": 2019,
+        "tempo": 109.979,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1845,
+        "artist": "NSG",
+        "song": "Options",
+        "duration_ms": 240081,
+        "year": 2020,
+        "tempo": 101.993,
+        "genre": "World/Traditional, hip hop"
+    },
+    {
+        "id": 733,
+        "artist": "Juice WRLD",
+        "song": "Robbery",
+        "duration_ms": 240050,
+        "year": 2019,
+        "tempo": 159.966,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1496,
+        "artist": "Kevin Gates",
+        "song": "2 Phones",
+        "duration_ms": 240000,
+        "year": 2016,
+        "tempo": 121.918,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1100,
+        "artist": "Desiigner",
+        "song": "Tiimmy Turner",
+        "duration_ms": 239853,
+        "year": 2016,
+        "tempo": 122.803,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 329,
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "duration_ms": 239835,
+        "year": 2018,
+        "tempo": 83.903,
+        "genre": "hip hop"
+    },
+    {
+        "id": 759,
+        "artist": "Rag'n'Bone Man",
+        "song": "Skin",
+        "duration_ms": 239626,
+        "year": 2017,
+        "tempo": 170.661,
+        "genre": "R&B"
+    },
+    {
+        "id": 566,
+        "artist": "Hilltop Hoods",
+        "song": "1955",
+        "duration_ms": 239280,
+        "year": 2016,
+        "tempo": 84.044,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 117,
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn (feat. Sia) - Radio Edit",
+        "duration_ms": 239000,
+        "year": 2017,
+        "tempo": 180.042,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 806,
+        "artist": "Drake",
+        "song": "Nonstop",
+        "duration_ms": 238614,
+        "year": 2018,
+        "tempo": 154.983,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1649,
+        "artist": "Ayo & Teo",
+        "song": "Rolex",
+        "duration_ms": 238586,
+        "year": 2017,
+        "tempo": 144.946,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 641,
+        "artist": "Pedro Capó",
+        "song": "Calma - Remix",
+        "duration_ms": 238200,
+        "year": 2018,
+        "tempo": 126.899,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 1872,
+        "artist": "Tory Lanez",
+        "song": "Say It",
+        "duration_ms": 237786,
+        "year": 2016,
+        "tempo": 107.331,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1910,
+        "artist": "Katy Perry",
+        "song": "Chained To The Rhythm",
+        "duration_ms": 237733,
+        "year": 2017,
+        "tempo": 95.029,
+        "genre": "pop"
+    },
+    {
+        "id": 1217,
+        "artist": "Liberty X",
+        "song": "Just A Little",
+        "duration_ms": 237359,
+        "year": 2019,
+        "tempo": 103.887,
+        "genre": "pop"
+    },
+    {
+        "id": 1630,
+        "artist": "YG",
+        "song": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
+        "duration_ms": 237240,
+        "year": 2018,
+        "tempo": 203.911,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1826,
+        "artist": "Justin Timberlake",
+        "song": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "duration_ms": 236001,
+        "year": 2016,
+        "tempo": 113.03,
+        "genre": "pop"
+    },
+    {
+        "id": 914,
+        "artist": "Ariana Grande",
+        "song": "Dangerous Woman",
+        "duration_ms": 235946,
+        "year": 2016,
+        "tempo": 134.052,
+        "genre": "pop"
+    },
+    {
+        "id": 372,
+        "artist": "MØ",
+        "song": "Final Song",
+        "duration_ms": 235826,
+        "year": 2016,
+        "tempo": 104.988,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 626,
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B) - Cardi B Version",
+        "duration_ms": 235545,
+        "year": 2018,
+        "tempo": 124.959,
+        "genre": "pop"
+    },
+    {
+        "id": 494,
+        "artist": "Maroon 5",
+        "song": "Cold (feat. Future)",
+        "duration_ms": 234308,
+        "year": 2017,
+        "tempo": 99.905,
+        "genre": "pop"
+    },
+    {
+        "id": 1076,
+        "artist": "Nick Jonas",
+        "song": "Close",
+        "duration_ms": 234213,
+        "year": 2016,
+        "tempo": 123.996,
+        "genre": "pop"
+    },
+    {
+        "id": 158,
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "duration_ms": 233901,
+        "year": 2017,
+        "tempo": 97.985,
+        "genre": "hip hop, pop"
+    }
+]

@@ -1,0 +1,7 @@
+CREATE TABLE sales (
+    id    INTEGER   PRIMARY KEY AUTOINCREMENT,
+    title TEXT      REFERENCES books (title),
+    price INTEGER,
+    place TEXT (50),
+    date  TEXT (10)
+);
