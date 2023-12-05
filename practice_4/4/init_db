@@ -1,0 +1,11 @@
+CREATE TABLE products (
+    id          INTEGER     PRIMARY KEY AUTOINCREMENT,
+    name        TEXT,
+    price       REAL,
+    quantity    INTEGER,
+    category    TEXT        DEFAULT (NULL),
+    fromCity    TEXT,
+    isAvailable INTEGER (1),
+    views       INTEGER,
+    version     INTEGER     DEFAULT (0)
+);

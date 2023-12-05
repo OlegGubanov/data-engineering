@@ -1,0 +1,112 @@
+[
+    {
+        "id": 49,
+        "name": "Logitech Wireless Keyboard",
+        "price": 76865.0,
+        "quantity": 42,
+        "category": null,
+        "fromCity": "Севилья",
+        "isAvailable": 1,
+        "views": 49041,
+        "version": 17
+    },
+    {
+        "id": 204,
+        "name": "Logitech Wireless Keyboard",
+        "price": 98687.0,
+        "quantity": 66,
+        "category": null,
+        "fromCity": "Касерес",
+        "isAvailable": 1,
+        "views": 19483,
+        "version": 17
+    },
+    {
+        "id": 26,
+        "name": "refined bubble bath",
+        "price": 81.53,
+        "quantity": 862,
+        "category": "cosmetics",
+        "fromCity": "Луарка",
+        "isAvailable": 0,
+        "views": 1633,
+        "version": 14
+    },
+    {
+        "id": 14,
+        "name": "pretty blueberry",
+        "price": 51.39,
+        "quantity": 884,
+        "category": "fruit",
+        "fromCity": "Санкт-Петербург",
+        "isAvailable": 1,
+        "views": 9057,
+        "version": 12
+    },
+    {
+        "id": 16,
+        "name": "luxurious raspberry",
+        "price": 60.879999999999995,
+        "quantity": 857,
+        "category": "fruit",
+        "fromCity": "Сантьяго-де-Компостела",
+        "isAvailable": 1,
+        "views": 81551,
+        "version": 11
+    },
+    {
+        "id": 32,
+        "name": "attractive body wash",
+        "price": 100.83,
+        "quantity": 900,
+        "category": "cosmetics",
+        "fromCity": "Баку",
+        "isAvailable": 1,
+        "views": 73063,
+        "version": 11
+    },
+    {
+        "id": 75,
+        "name": "sublime nail polish",
+        "price": 64.81,
+        "quantity": 567,
+        "category": "cosmetics",
+        "fromCity": "Аликанте",
+        "isAvailable": 1,
+        "views": 93434,
+        "version": 11
+    },
+    {
+        "id": 114,
+        "name": "marvelous flooring",
+        "price": 105.23,
+        "quantity": 618,
+        "category": "tools",
+        "fromCity": "Вильявисиоса",
+        "isAvailable": 1,
+        "views": 38523,
+        "version": 11
+    },
+    {
+        "id": 121,
+        "name": "tasteful paint",
+        "price": 54.81999999999999,
+        "quantity": 773,
+        "category": "tools",
+        "fromCity": "Сория",
+        "isAvailable": 0,
+        "views": 13872,
+        "version": 11
+    },
+    {
+        "id": 129,
+        "name": "luxurious orange",
+        "price": 36.2,
+        "quantity": 612,
+        "category": "fruit",
+        "fromCity": "Таллин",
+        "isAvailable": 1,
+        "views": 38661,
+        "version": 11
+    }
+]

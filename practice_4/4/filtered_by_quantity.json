@@ -1,0 +1,35 @@
+[
+    {
+        "id": 49,
+        "name": "Logitech Wireless Keyboard",
+        "price": 76865.0,
+        "quantity": 42,
+        "category": null,
+        "fromCity": "Севилья",
+        "isAvailable": 1,
+        "views": 49041,
+        "version": 17
+    },
+    {
+        "id": 189,
+        "name": "Canon PIXMA",
+        "price": 20734.0,
+        "quantity": 51,
+        "category": null,
+        "fromCity": "Пласенсия",
+        "isAvailable": 1,
+        "views": 43338,
+        "version": 2
+    },
+    {
+        "id": 204,
+        "name": "Logitech Wireless Keyboard",
+        "price": 98687.0,
+        "quantity": 66,
+        "category": null,
+        "fromCity": "Касерес",
+        "isAvailable": 1,
+        "views": 19483,
+        "version": 17
+    }
+]

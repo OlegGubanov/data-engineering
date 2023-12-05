@@ -1,0 +1,27 @@
+CREATE TABLE users (
+    user_id  INTEGER PRIMARY KEY AUTOINCREMENT,
+    products INTEGER,
+    reviews  INTEGER
+);
+
+CREATE TABLE games (
+    app_id         INTEGER     PRIMARY KEY AUTOINCREMENT,
+    title          TEXT,
+    date_release   TEXT,
+    win            INTEGER (1),
+    mac            INTEGER (1),
+    linux          INTEGER (1),
+    rating         TEXT,
+    positive_ratio INTEGER,
+    user_reviews   INTEGER,
+    price_final    REAL,
+    price_original REAL,
+    discount       REAL,
+    steam_deck     INTEGER (1)
+);
+
+CREATE TABLE games_metadata (
+    app_id      INTEGER REFERENCES games (app_id),
+    description TEXT,
+    tags        TEXT
+);

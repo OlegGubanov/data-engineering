@@ -1,0 +1,38 @@
+[
+    {
+        "rating": "Positive",
+        "count": 0.26541122818053153
+    },
+    {
+        "rating": "Very Positive",
+        "count": 0.258275672275515
+    },
+    {
+        "rating": "Mixed",
+        "count": 0.23897232269224722
+    },
+    {
+        "rating": "Mostly Positive",
+        "count": 0.17176442836924044
+    },
+    {
+        "rating": "Mostly Negative",
+        "count": 0.03634612360434031
+    },
+    {
+        "rating": "Overwhelmingly Positive",
+        "count": 0.021819468469885202
+    },
+    {
+        "rating": "Negative",
+        "count": 0.005956125176914609
+    },
+    {
+        "rating": "Very Negative",
+        "count": 0.0011794307281019027
+    },
+    {
+        "rating": "Overwhelmingly Negative",
+        "count": 0.00027520050322377734
+    }
+]

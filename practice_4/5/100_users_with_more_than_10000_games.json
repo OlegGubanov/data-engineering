@@ -1,0 +1,502 @@
+[
+    {
+        "user_id": 9267739,
+        "products": 29752,
+        "reviews": 101
+    },
+    {
+        "user_id": 9533535,
+        "products": 29655,
+        "reviews": 2
+    },
+    {
+        "user_id": 5910634,
+        "products": 28925,
+        "reviews": 32
+    },
+    {
+        "user_id": 4129968,
+        "products": 26897,
+        "reviews": 1
+    },
+    {
+        "user_id": 3800183,
+        "products": 23301,
+        "reviews": 5
+    },
+    {
+        "user_id": 5133973,
+        "products": 22468,
+        "reviews": 16
+    },
+    {
+        "user_id": 5240153,
+        "products": 22353,
+        "reviews": 20
+    },
+    {
+        "user_id": 11928621,
+        "products": 21809,
+        "reviews": 174
+    },
+    {
+        "user_id": 6477612,
+        "products": 21476,
+        "reviews": 8
+    },
+    {
+        "user_id": 5552223,
+        "products": 21227,
+        "reviews": 8
+    },
+    {
+        "user_id": 11422044,
+        "products": 21173,
+        "reviews": 2
+    },
+    {
+        "user_id": 7197147,
+        "products": 21112,
+        "reviews": 7
+    },
+    {
+        "user_id": 12543492,
+        "products": 20708,
+        "reviews": 25
+    },
+    {
+        "user_id": 4193637,
+        "products": 20398,
+        "reviews": 15
+    },
+    {
+        "user_id": 8663791,
+        "products": 20305,
+        "reviews": 2
+    },
+    {
+        "user_id": 11010011,
+        "products": 20237,
+        "reviews": 1
+    },
+    {
+        "user_id": 3313166,
+        "products": 20130,
+        "reviews": 131
+    },
+    {
+        "user_id": 541167,
+        "products": 20057,
+        "reviews": 45
+    },
+    {
+        "user_id": 3521269,
+        "products": 19301,
+        "reviews": 1
+    },
+    {
+        "user_id": 4554631,
+        "products": 19056,
+        "reviews": 54
+    },
+    {
+        "user_id": 2683829,
+        "products": 18599,
+        "reviews": 1
+    },
+    {
+        "user_id": 13152754,
+        "products": 18392,
+        "reviews": 1
+    },
+    {
+        "user_id": 143980,
+        "products": 18317,
+        "reviews": 20
+    },
+    {
+        "user_id": 1247846,
+        "products": 18285,
+        "reviews": 32
+    },
+    {
+        "user_id": 7887056,
+        "products": 18258,
+        "reviews": 1
+    },
+    {
+        "user_id": 11186544,
+        "products": 18161,
+        "reviews": 57
+    },
+    {
+        "user_id": 3141161,
+        "products": 18087,
+        "reviews": 2
+    },
+    {
+        "user_id": 12515512,
+        "products": 17981,
+        "reviews": 20
+    },
+    {
+        "user_id": 7476725,
+        "products": 17840,
+        "reviews": 5
+    },
+    {
+        "user_id": 8748225,
+        "products": 17833,
+        "reviews": 2
+    },
+    {
+        "user_id": 12358460,
+        "products": 17796,
+        "reviews": 54
+    },
+    {
+        "user_id": 10549425,
+        "products": 17623,
+        "reviews": 81
+    },
+    {
+        "user_id": 10991623,
+        "products": 17506,
+        "reviews": 3
+    },
+    {
+        "user_id": 10623280,
+        "products": 17354,
+        "reviews": 9
+    },
+    {
+        "user_id": 8850624,
+        "products": 17340,
+        "reviews": 37
+    },
+    {
+        "user_id": 11255761,
+        "products": 17161,
+        "reviews": 41
+    },
+    {
+        "user_id": 8611939,
+        "products": 17140,
+        "reviews": 19
+    },
+    {
+        "user_id": 13642367,
+        "products": 16960,
+        "reviews": 3
+    },
+    {
+        "user_id": 3161917,
+        "products": 16830,
+        "reviews": 4
+    },
+    {
+        "user_id": 12002848,
+        "products": 16794,
+        "reviews": 23
+    },
+    {
+        "user_id": 9717703,
+        "products": 16791,
+        "reviews": 23
+    },
+    {
+        "user_id": 13090472,
+        "products": 16480,
+        "reviews": 32
+    },
+    {
+        "user_id": 8047523,
+        "products": 16471,
+        "reviews": 34
+    },
+    {
+        "user_id": 8316406,
+        "products": 16305,
+        "reviews": 16
+    },
+    {
+        "user_id": 6753963,
+        "products": 16183,
+        "reviews": 17
+    },
+    {
+        "user_id": 7294273,
+        "products": 15981,
+        "reviews": 1
+    },
+    {
+        "user_id": 6248597,
+        "products": 15920,
+        "reviews": 1
+    },
+    {
+        "user_id": 13287606,
+        "products": 15845,
+        "reviews": 10
+    },
+    {
+        "user_id": 11178985,
+        "products": 15775,
+        "reviews": 22
+    },
+    {
+        "user_id": 10903264,
+        "products": 15762,
+        "reviews": 7
+    },
+    {
+        "user_id": 6700448,
+        "products": 15415,
+        "reviews": 32
+    },
+    {
+        "user_id": 6269705,
+        "products": 15324,
+        "reviews": 2
+    },
+    {
+        "user_id": 7692431,
+        "products": 15118,
+        "reviews": 2
+    },
+    {
+        "user_id": 7881771,
+        "products": 15047,
+        "reviews": 5
+    },
+    {
+        "user_id": 4212826,
+        "products": 15010,
+        "reviews": 144
+    },
+    {
+        "user_id": 5810445,
+        "products": 14742,
+        "reviews": 6
+    },
+    {
+        "user_id": 112781,
+        "products": 14517,
+        "reviews": 1
+    },
+    {
+        "user_id": 3537819,
+        "products": 14456,
+        "reviews": 12
+    },
+    {
+        "user_id": 4968830,
+        "products": 14439,
+        "reviews": 113
+    },
+    {
+        "user_id": 7632864,
+        "products": 14435,
+        "reviews": 3
+    },
+    {
+        "user_id": 6059764,
+        "products": 14355,
+        "reviews": 3
+    },
+    {
+        "user_id": 7114215,
+        "products": 14275,
+        "reviews": 6
+    },
+    {
+        "user_id": 11035204,
+        "products": 14238,
+        "reviews": 55
+    },
+    {
+        "user_id": 463420,
+        "products": 14237,
+        "reviews": 6
+    },
+    {
+        "user_id": 5258817,
+        "products": 14122,
+        "reviews": 4
+    },
+    {
+        "user_id": 9874475,
+        "products": 14116,
+        "reviews": 139
+    },
+    {
+        "user_id": 1347287,
+        "products": 14100,
+        "reviews": 30
+    },
+    {
+        "user_id": 9800282,
+        "products": 14098,
+        "reviews": 3
+    },
+    {
+        "user_id": 7087149,
+        "products": 14058,
+        "reviews": 5
+    },
+    {
+        "user_id": 4276163,
+        "products": 13892,
+        "reviews": 3
+    },
+    {
+        "user_id": 10957262,
+        "products": 13840,
+        "reviews": 3
+    },
+    {
+        "user_id": 6166281,
+        "products": 13830,
+        "reviews": 5
+    },
+    {
+        "user_id": 11734951,
+        "products": 13802,
+        "reviews": 1
+    },
+    {
+        "user_id": 6716693,
+        "products": 13767,
+        "reviews": 2
+    },
+    {
+        "user_id": 10729147,
+        "products": 13758,
+        "reviews": 5
+    },
+    {
+        "user_id": 8166538,
+        "products": 13740,
+        "reviews": 13
+    },
+    {
+        "user_id": 8866218,
+        "products": 13732,
+        "reviews": 25
+    },
+    {
+        "user_id": 11035799,
+        "products": 13634,
+        "reviews": 9
+    },
+    {
+        "user_id": 9654539,
+        "products": 13621,
+        "reviews": 34
+    },
+    {
+        "user_id": 753825,
+        "products": 13593,
+        "reviews": 28
+    },
+    {
+        "user_id": 11757392,
+        "products": 13568,
+        "reviews": 104
+    },
+    {
+        "user_id": 5968615,
+        "products": 13480,
+        "reviews": 19
+    },
+    {
+        "user_id": 7783225,
+        "products": 13438,
+        "reviews": 10
+    },
+    {
+        "user_id": 7011399,
+        "products": 13434,
+        "reviews": 1
+    },
+    {
+        "user_id": 2993943,
+        "products": 13429,
+        "reviews": 22
+    },
+    {
+        "user_id": 2908449,
+        "products": 13365,
+        "reviews": 8
+    },
+    {
+        "user_id": 9729867,
+        "products": 13355,
+        "reviews": 5
+    },
+    {
+        "user_id": 10344635,
+        "products": 13281,
+        "reviews": 1
+    },
+    {
+        "user_id": 11301697,
+        "products": 13267,
+        "reviews": 20
+    },
+    {
+        "user_id": 11354942,
+        "products": 13263,
+        "reviews": 12
+    },
+    {
+        "user_id": 12058344,
+        "products": 13138,
+        "reviews": 2
+    },
+    {
+        "user_id": 11430606,
+        "products": 13063,
+        "reviews": 54
+    },
+    {
+        "user_id": 6351700,
+        "products": 13056,
+        "reviews": 2238
+    },
+    {
+        "user_id": 2803761,
+        "products": 13020,
+        "reviews": 3
+    },
+    {
+        "user_id": 6537827,
+        "products": 12990,
+        "reviews": 48
+    },
+    {
+        "user_id": 4842707,
+        "products": 12916,
+        "reviews": 45
+    },
+    {
+        "user_id": 10138946,
+        "products": 12914,
+        "reviews": 6
+    },
+    {
+        "user_id": 8037036,
+        "products": 12881,
+        "reviews": 56
+    },
+    {
+        "user_id": 11633580,
+        "products": 12827,
+        "reviews": 42
+    },
+    {
+        "user_id": 9003805,
+        "products": 12774,
+        "reviews": 13
+    }
+]
