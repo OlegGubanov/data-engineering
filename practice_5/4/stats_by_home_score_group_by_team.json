@@ -1,0 +1,176 @@
+[
+    {
+        "_id": "AFC Bournemouth",
+        "min": 0,
+        "avg": 1.2105263157894737,
+        "max": 3
+    },
+    {
+        "_id": "Arsenal",
+        "min": 0,
+        "avg": 1.868421052631579,
+        "max": 5
+    },
+    {
+        "_id": "Aston Villa",
+        "min": 0,
+        "avg": 0.7,
+        "max": 2
+    },
+    {
+        "_id": "Birmingham City",
+        "min": 0,
+        "avg": 0.0,
+        "max": 0
+    },
+    {
+        "_id": "Blackburn Rovers",
+        "min": 0,
+        "avg": 0.0,
+        "max": 0
+    },
+    {
+        "_id": "Bolton Wanderers",
+        "min": 1,
+        "avg": 1.0,
+        "max": 1
+    },
+    {
+        "_id": "Charlton Athletic",
+        "min": 1,
+        "avg": 1.0,
+        "max": 1
+    },
+    {
+        "_id": "Chelsea",
+        "min": 0,
+        "avg": 1.65,
+        "max": 5
+    },
+    {
+        "_id": "Crystal Palace",
+        "min": 0,
+        "avg": 1.0,
+        "max": 5
+    },
+    {
+        "_id": "Everton",
+        "min": 0,
+        "avg": 1.8,
+        "max": 6
+    },
+    {
+        "_id": "Fulham",
+        "min": 0,
+        "avg": 0.0,
+        "max": 0
+    },
+    {
+        "_id": "Leeds United",
+        "min": 1,
+        "avg": 1.0,
+        "max": 1
+    },
+    {
+        "_id": "Leicester City",
+        "min": 0,
+        "avg": 1.8,
+        "max": 4
+    },
+    {
+        "_id": "Liverpool",
+        "min": 0,
+        "avg": 1.7,
+        "max": 4
+    },
+    {
+        "_id": "Manchester City",
+        "min": 0,
+        "avg": 2.4,
+        "max": 6
+    },
+    {
+        "_id": "Manchester United",
+        "min": 0,
+        "avg": 1.35,
+        "max": 3
+    },
+    {
+        "_id": "Middlesbrough",
+        "min": 0,
+        "avg": 0.0,
+        "max": 0
+    },
+    {
+        "_id": "Newcastle United",
+        "min": 0,
+        "avg": 1.6,
+        "max": 6
+    },
+    {
+        "_id": "Norwich City",
+        "min": 0,
+        "avg": 1.368421052631579,
+        "max": 4
+    },
+    {
+        "_id": "Portsmouth",
+        "min": 1,
+        "avg": 1.0,
+        "max": 1
+    },
+    {
+        "_id": "Southampton",
+        "min": 0,
+        "avg": 1.95,
+        "max": 4
+    },
+    {
+        "_id": "Stoke City",
+        "min": 0,
+        "avg": 1.1578947368421053,
+        "max": 3
+    },
+    {
+        "_id": "Sunderland",
+        "min": 0,
+        "avg": 1.2105263157894737,
+        "max": 3
+    },
+    {
+        "_id": "Swansea City",
+        "min": 0,
+        "avg": 1.0526315789473684,
+        "max": 3
+    },
+    {
+        "_id": "Tottenham Hotspur",
+        "min": 0,
+        "avg": 1.85,
+        "max": 4
+    },
+    {
+        "_id": "Watford",
+        "min": 0,
+        "avg": 1.0526315789473684,
+        "max": 3
+    },
+    {
+        "_id": "West Bromwich Albion",
+        "min": 0,
+        "avg": 1.0526315789473684,
+        "max": 3
+    },
+    {
+        "_id": "West Ham United",
+        "min": 0,
+        "avg": 1.7894736842105263,
+        "max": 3
+    },
+    {
+        "_id": "Wolverhampton Wanderers",
+        "min": 1,
+        "avg": 1.0,
+        "max": 1
+    }
+]

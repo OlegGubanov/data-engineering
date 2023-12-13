@@ -1,0 +1,6262 @@
+[
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cd1"
+        },
+        "match_id": 3754134,
+        "match_date": "2016-05-10",
+        "kick_off": "21:30:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 40,
+            "home_team_name": "West Ham United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 39,
+            "away_team_name": "Manchester United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:44:15.445809",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 35,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 115324,
+            "name": "Boleyn Ground",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bd5"
+        },
+        "match_id": 3754048,
+        "match_date": "2016-04-13",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 31,
+            "home_team_name": "Crystal Palace",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-09T13:20:16.291",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 35,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 37,
+            "name": "Selhurst Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 14,
+            "name": "Mike Jones",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bda"
+        },
+        "match_id": 3754055,
+        "match_date": "2016-05-11",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 24,
+            "home_team_name": "Liverpool",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 33,
+            "away_team_name": "Chelsea",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3608,
+                    "name": "Guus Hiddink",
+                    "nickname": null,
+                    "dob": "1946-11-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:45:30.949006",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 6,
+            "name": "Anfield ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 1,
+            "name": "Michael Oliver",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899be5"
+        },
+        "match_id": 3753979,
+        "match_date": "2015-11-23",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 31,
+            "home_team_name": "Crystal Palace",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 41,
+            "away_team_name": "Sunderland",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2022-12-01T13:27:51.423924",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 13,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 37,
+            "name": "Selhurst Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 4,
+            "name": "Martin Atkinson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bf0"
+        },
+        "match_id": 3754029,
+        "match_date": "2015-11-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 38,
+            "home_team_name": "Tottenham Hotspur",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 59,
+            "away_team_name": "Aston Villa",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 330,
+                    "name": "Kevin MacDonald",
+                    "nickname": null,
+                    "dob": "1960-11-22",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-09-11T05:14:06.930506",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 11,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 99148,
+            "name": "White Hart Lane",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c0c"
+        },
+        "match_id": 3754046,
+        "match_date": "2015-12-07",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 29,
+            "home_team_name": "Everton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 31,
+            "away_team_name": "Crystal Palace",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2022-12-01T13:32:22.649321",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 15,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 12,
+            "name": "Goodison Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c19"
+        },
+        "match_id": 3754105,
+        "match_date": "2015-09-28",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 27,
+            "home_team_name": "West Bromwich Albion",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-08-11T18:14:00.795163",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 7,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 33,
+            "name": "The Hawthorns",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 9,
+            "name": "Robert Madley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c28"
+        },
+        "match_id": 3754145,
+        "match_date": "2015-08-10",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 27,
+            "home_team_name": "West Bromwich Albion",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-09-09T11:03:23.049831",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 1,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 33,
+            "name": "The Hawthorns",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c4e"
+        },
+        "match_id": 3754269,
+        "match_date": "2015-10-19",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 26,
+            "home_team_name": "Swansea City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            },
+            "managers": [
+                {
+                    "id": 270,
+                    "name": "Garry Monk",
+                    "nickname": null,
+                    "dob": "1979-03-06",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 30,
+            "away_team_name": "Stoke City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 55,
+                    "name": "Mark Hughes",
+                    "nickname": null,
+                    "dob": "1963-11-01",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-09-29T22:20:51.346007",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 9,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 45,
+            "name": "Swansea.com Stadium",
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            }
+        },
+        "referee": {
+            "id": 9,
+            "name": "Robert Madley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c51"
+        },
+        "match_id": 3754296,
+        "match_date": "2015-12-21",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2021-07-17T13:35:33.149",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 17,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 3,
+            "name": "Emirates Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 5,
+            "name": "Andre Marriner",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c6a"
+        },
+        "match_id": 3754329,
+        "match_date": "2015-09-14",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 40,
+            "home_team_name": "West Ham United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 37,
+            "away_team_name": "Newcastle United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 40,
+                    "name": "Steve McClaren",
+                    "nickname": null,
+                    "dob": "1961-05-03",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-09-09T12:35:13.376459",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 5,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 115324,
+            "name": "Boleyn Ground",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 8,
+            "name": "Anthony Taylor",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c6c"
+        },
+        "match_id": 3754013,
+        "match_date": "2015-12-14",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 22,
+            "home_team_name": "Leicester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 33,
+            "away_team_name": "Chelsea",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 383,
+                    "name": "José Mario Felix dos Santos Mourinho",
+                    "nickname": "José Mourinho",
+                    "dob": "1963-01-26",
+                    "country": {
+                        "id": 183,
+                        "name": "Portugal"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-10-14T00:06:51.149330",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 16,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 20,
+            "name": "King Power Stadium ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 728,
+            "name": "Mark Clattenburg",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c85"
+        },
+        "match_id": 3754129,
+        "match_date": "2015-08-24",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 24,
+            "away_team_name": "Liverpool",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 6,
+                    "name": "Brendan Rodgers",
+                    "nickname": null,
+                    "dob": "1973-01-26",
+                    "country": {
+                        "id": 169,
+                        "name": "Northern Ireland"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-07-29T05:00",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 3,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 3,
+            "name": "Emirates Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 1,
+            "name": "Michael Oliver",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c89"
+        },
+        "match_id": 3754065,
+        "match_date": "2016-01-13",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 38,
+            "home_team_name": "Tottenham Hotspur",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 22,
+            "away_team_name": "Leicester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:52:39.998252",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 99148,
+            "name": "White Hart Lane",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 10,
+            "name": "Lee Mason",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c97"
+        },
+        "match_id": 3753991,
+        "match_date": "2016-03-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 24,
+            "home_team_name": "Liverpool",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-03T20:34:48.662",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 6,
+            "name": "Anfield ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 4,
+            "name": "Martin Atkinson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c9c"
+        },
+        "match_id": 3754002,
+        "match_date": "2016-03-14",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 22,
+            "home_team_name": "Leicester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 37,
+            "away_team_name": "Newcastle United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 148,
+                    "name": "Rafael Benítez Maudes",
+                    "nickname": "Rafael Benítez",
+                    "dob": "1960-04-16",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-31T22:35:04.431",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 20,
+            "name": "King Power Stadium ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cbc"
+        },
+        "match_id": 3754089,
+        "match_date": "2016-02-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 31,
+            "home_team_name": "Crystal Palace",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 28,
+            "away_team_name": "AFC Bournemouth",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 38,
+                    "name": "Eddie Howe",
+                    "nickname": null,
+                    "dob": "1977-11-29",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:57:52.817967",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 37,
+            "name": "Selhurst Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 14,
+            "name": "Mike Jones",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cbd"
+        },
+        "match_id": 3754092,
+        "match_date": "2016-05-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 33,
+            "home_team_name": "Chelsea",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3608,
+                    "name": "Guus Hiddink",
+                    "nickname": null,
+                    "dob": "1946-11-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 38,
+            "away_team_name": "Tottenham Hotspur",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:37:07.934951",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 36,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 10,
+            "name": "Stamford Bridge",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 728,
+            "name": "Mark Clattenburg",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cbe"
+        },
+        "match_id": 3754094,
+        "match_date": "2016-02-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 39,
+            "home_team_name": "Manchester United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 30,
+            "away_team_name": "Stoke City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 55,
+                    "name": "Mark Hughes",
+                    "nickname": null,
+                    "dob": "1963-11-01",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-05T22:51:25.988",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 2,
+            "name": "Old Trafford",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 13,
+            "name": "Roger East",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cde"
+        },
+        "match_id": 3754159,
+        "match_date": "2016-05-17",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 39,
+            "home_team_name": "Manchester United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 28,
+            "away_team_name": "AFC Bournemouth",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 38,
+                    "name": "Eddie Howe",
+                    "nickname": null,
+                    "dob": "1977-11-29",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-09T13:36:42.171",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 38,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 2,
+            "name": "Old Trafford",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 3,
+            "name": "Jonathan Moss",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cdf"
+        },
+        "match_id": 3754161,
+        "match_date": "2016-01-18",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 26,
+            "home_team_name": "Swansea City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            },
+            "managers": [
+                {
+                    "id": 4711,
+                    "name": "Alan Curtis",
+                    "nickname": null,
+                    "dob": "1954-04-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 23,
+            "away_team_name": "Watford",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-05T22:39:42.057",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 22,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 45,
+            "name": "Swansea.com Stadium",
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            }
+        },
+        "referee": {
+            "id": 1,
+            "name": "Michael Oliver",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cec"
+        },
+        "match_id": 3754187,
+        "match_date": "2016-04-18",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 30,
+            "home_team_name": "Stoke City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 55,
+                    "name": "Mark Hughes",
+                    "nickname": null,
+                    "dob": "1963-11-01",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 38,
+            "away_team_name": "Tottenham Hotspur",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 4,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:30:35.994587",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 34,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 29,
+            "name": "bet365 Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 7,
+            "name": "Neil Swarbrick",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d03"
+        },
+        "match_id": 3754232,
+        "match_date": "2016-03-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 39,
+            "home_team_name": "Manchester United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 23,
+            "away_team_name": "Watford",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:11:32.381247",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 2,
+            "name": "Old Trafford",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 14,
+            "name": "Mike Jones",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d20"
+        },
+        "match_id": 3754294,
+        "match_date": "2016-04-20",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 24,
+            "home_team_name": "Liverpool",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 4,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-06T20:49:53.595",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 27,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 6,
+            "name": "Anfield ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 9,
+            "name": "Robert Madley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d24"
+        },
+        "match_id": 3754305,
+        "match_date": "2016-01-13",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 24,
+            "home_team_name": "Liverpool",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 1,
+            "away_team_name": "Arsenal",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:51:05.910614",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 6,
+            "name": "Anfield ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 14,
+            "name": "Mike Jones",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d28"
+        },
+        "match_id": 3754310,
+        "match_date": "2016-04-20",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 39,
+            "home_team_name": "Manchester United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 31,
+            "away_team_name": "Crystal Palace",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-06T18:07:40.704",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 2,
+            "name": "Old Trafford",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 10,
+            "name": "Lee Mason",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d36"
+        },
+        "match_id": 3754332,
+        "match_date": "2016-04-25",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 38,
+            "home_team_name": "Tottenham Hotspur",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 27,
+            "away_team_name": "West Bromwich Albion",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-07T17:46:25.604",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 35,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 99148,
+            "name": "White Hart Lane",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 14,
+            "name": "Mike Jones",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d3a"
+        },
+        "match_id": 3754340,
+        "match_date": "2016-02-02",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 27,
+            "home_team_name": "West Bromwich Albion",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 26,
+            "away_team_name": "Swansea City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            },
+            "managers": [
+                {
+                    "id": 3626,
+                    "name": "Francesco Guidolin",
+                    "nickname": null,
+                    "dob": "1955-10-03",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-10-30T01:12:07.192015",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 33,
+            "name": "The Hawthorns",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 7,
+            "name": "Neil Swarbrick",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d43"
+        },
+        "match_id": 3754020,
+        "match_date": "2015-08-17",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 24,
+            "home_team_name": "Liverpool",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 6,
+                    "name": "Brendan Rodgers",
+                    "nickname": null,
+                    "dob": "1973-01-26",
+                    "country": {
+                        "id": 169,
+                        "name": "Northern Ireland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 28,
+            "away_team_name": "AFC Bournemouth",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 38,
+                    "name": "Eddie Howe",
+                    "nickname": null,
+                    "dob": "1977-11-29",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2022-07-08T21:26:42.829047",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 2,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 6,
+            "name": "Anfield ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d53"
+        },
+        "match_id": 3749528,
+        "match_date": "2003-09-26",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 37,
+            "away_team_name": "Newcastle United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3404,
+                    "name": "Bobby Robson",
+                    "nickname": null,
+                    "dob": "1933-02-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-07-29T05:00",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 7,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 1000243,
+            "name": "Highbury Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d5b"
+        },
+        "match_id": 3749310,
+        "match_date": "2003-12-29",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 25,
+            "home_team_name": "Southampton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3722,
+                    "name": "Gordon Strachan",
+                    "nickname": null,
+                    "dob": "1957-02-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 1,
+            "away_team_name": "Arsenal",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2022-11-24T20:48:40.072222",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 1,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4591,
+            "name": "St. Mary''s Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d62"
+        },
+        "match_id": 3749453,
+        "match_date": "2004-04-16",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 101,
+            "away_team_name": "Leeds United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3029,
+                    "name": "Eddie Gray",
+                    "nickname": null,
+                    "dob": "1948-01-17",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "home_score": 5,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2021-11-14T22:29:00.646120",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 33,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 1000243,
+            "name": "Highbury Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d65"
+        },
+        "match_id": 3749274,
+        "match_date": "2004-05-04",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 105,
+            "home_team_name": "Portsmouth",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 749,
+                    "name": "Harry Redknapp",
+                    "nickname": null,
+                    "dob": "1947-03-02",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 1,
+            "away_team_name": "Arsenal",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2023-02-18T13:47:23.881760",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 2,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "referee": {
+            "id": 669,
+            "name": "Michael Riley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d68"
+        },
+        "match_id": 3749117,
+        "match_date": "2004-01-07",
+        "kick_off": "21:00:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 29,
+            "home_team_name": "Everton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 86,
+                    "name": "David Moyes",
+                    "nickname": null,
+                    "dob": "1963-04-25",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 1,
+            "away_team_name": "Arsenal",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2023-02-16T02:31:12.543902",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 2,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "referee": {
+            "id": 1008016,
+            "name": "Alan Wiley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bd4"
+        },
+        "match_id": 3754045,
+        "match_date": "2015-12-29",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 22,
+            "home_team_name": "Leicester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-06-30T19:08:15.538",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 19,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 20,
+            "name": "King Power Stadium ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bd7"
+        },
+        "match_id": 3754050,
+        "match_date": "2016-03-01",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 41,
+            "home_team_name": "Sunderland",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 31,
+            "away_team_name": "Crystal Palace",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:08:37.435992",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 210,
+            "name": "Stadium of Light",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 8,
+            "name": "Anthony Taylor",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899bdb"
+        },
+        "match_id": 3754226,
+        "match_date": "2015-12-30",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 41,
+            "home_team_name": "Sunderland",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 24,
+            "away_team_name": "Liverpool",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-06-28T15:11:27.654",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 19,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 210,
+            "name": "Stadium of Light",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 12,
+            "name": "Kevin Friend",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c18"
+        },
+        "match_id": 3754107,
+        "match_date": "2015-08-14",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 59,
+            "home_team_name": "Aston Villa",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 5003,
+                    "name": "Tim Sherwood",
+                    "nickname": null,
+                    "dob": "1969-02-06",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 39,
+            "away_team_name": "Manchester United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-08-09T12:07:13.784938",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 2,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 211,
+            "name": "Villa Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c68"
+        },
+        "match_id": 3754309,
+        "match_date": "2015-12-26",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 25,
+            "home_team_name": "Southampton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 676,
+                    "name": "Ronald Koeman",
+                    "nickname": null,
+                    "dob": "1963-03-21",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 1,
+            "away_team_name": "Arsenal",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 4,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "scheduled",
+        "last_updated": "2020-12-09T20:47:26.732958",
+        "last_updated_360": "2021-06-13T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 18,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4591,
+            "name": "St. Mary''s Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 3,
+            "name": "Jonathan Moss",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c8e"
+        },
+        "match_id": 3753976,
+        "match_date": "2016-03-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 26,
+            "away_team_name": "Swansea City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            },
+            "managers": [
+                {
+                    "id": 3626,
+                    "name": "Francesco Guidolin",
+                    "nickname": null,
+                    "dob": "1955-10-03",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:10:40.492137",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 3,
+            "name": "Emirates Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 9,
+            "name": "Robert Madley",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c91"
+        },
+        "match_id": 3753981,
+        "match_date": "2016-01-12",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 59,
+            "home_team_name": "Aston Villa",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 92,
+                    "name": "Rémi Garde",
+                    "nickname": null,
+                    "dob": "1966-04-03",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 31,
+            "away_team_name": "Crystal Palace",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 382,
+                    "name": "Alan Pardew",
+                    "nickname": null,
+                    "dob": "1961-07-18",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-02T13:56:21.986",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 211,
+            "name": "Villa Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 728,
+            "name": "Mark Clattenburg",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c95"
+        },
+        "match_id": 3753989,
+        "match_date": "2016-05-11",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 41,
+            "home_team_name": "Sunderland",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:48:06.624347",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 210,
+            "name": "Stadium of Light",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 8,
+            "name": "Anthony Taylor",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c9a"
+        },
+        "match_id": 3753997,
+        "match_date": "2016-02-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 40,
+            "home_team_name": "West Ham United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 59,
+            "away_team_name": "Aston Villa",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 92,
+                    "name": "Rémi Garde",
+                    "nickname": null,
+                    "dob": "1966-04-03",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-06-30T21:03:02.583",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 115324,
+            "name": "Boleyn Ground",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 3,
+            "name": "Jonathan Moss",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899c9e"
+        },
+        "match_id": 3754005,
+        "match_date": "2016-03-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 30,
+            "home_team_name": "Stoke City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 55,
+                    "name": "Mark Hughes",
+                    "nickname": null,
+                    "dob": "1963-11-01",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 37,
+            "away_team_name": "Newcastle United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 40,
+                    "name": "Steve McClaren",
+                    "nickname": null,
+                    "dob": "1961-05-03",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-11-04T18:06:52.081837",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 29,
+            "name": "bet365 Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 7,
+            "name": "Neil Swarbrick",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899ca4"
+        },
+        "match_id": 3754021,
+        "match_date": "2016-01-12",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 28,
+            "home_team_name": "AFC Bournemouth",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 38,
+                    "name": "Eddie Howe",
+                    "nickname": null,
+                    "dob": "1977-11-29",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 40,
+            "away_team_name": "West Ham United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-10-30T00:13:49.011466",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 71,
+            "name": "Vitality Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 4,
+            "name": "Martin Atkinson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cab"
+        },
+        "match_id": 3754032,
+        "match_date": "2016-01-13",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 30,
+            "home_team_name": "Stoke City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 55,
+                    "name": "Mark Hughes",
+                    "nickname": null,
+                    "dob": "1963-11-01",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 56,
+            "away_team_name": "Norwich City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 41,
+                    "name": "Alex Neil",
+                    "nickname": null,
+                    "dob": "1981-06-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-23T13:01:16.684",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 29,
+            "name": "bet365 Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 7,
+            "name": "Neil Swarbrick",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cb0"
+        },
+        "match_id": 3754062,
+        "match_date": "2016-01-13",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 33,
+            "home_team_name": "Chelsea",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3608,
+                    "name": "Guus Hiddink",
+                    "nickname": null,
+                    "dob": "1946-11-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 27,
+            "away_team_name": "West Bromwich Albion",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:51:56.637934",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 10,
+            "name": "Stamford Bridge",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 8,
+            "name": "Anthony Taylor",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cb4"
+        },
+        "match_id": 3754071,
+        "match_date": "2016-01-13",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 26,
+            "home_team_name": "Swansea City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            },
+            "managers": [
+                {
+                    "id": 4711,
+                    "name": "Alan Curtis",
+                    "nickname": null,
+                    "dob": "1954-04-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 41,
+            "away_team_name": "Sunderland",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 4,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-10-30T00:34:46.190260",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 45,
+            "name": "Swansea.com Stadium",
+            "country": {
+                "id": 249,
+                "name": "Wales"
+            }
+        },
+        "referee": {
+            "id": 11,
+            "name": "Graham Scott",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cb9"
+        },
+        "match_id": 3754086,
+        "match_date": "2016-04-20",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 40,
+            "home_team_name": "West Ham United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 23,
+            "away_team_name": "Watford",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-06T18:06:29.513",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 115324,
+            "name": "Boleyn Ground",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cbb"
+        },
+        "match_id": 3754088,
+        "match_date": "2016-01-12",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 37,
+            "home_team_name": "Newcastle United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 40,
+                    "name": "Steve McClaren",
+                    "nickname": null,
+                    "dob": "1961-05-03",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 39,
+            "away_team_name": "Manchester United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 788,
+                    "name": "Louis van Gaal",
+                    "nickname": null,
+                    "dob": "1951-08-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-10-30T00:06:51.530211",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4674,
+            "name": "St. James'' Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cbf"
+        },
+        "match_id": 3754095,
+        "match_date": "2016-02-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 41,
+            "home_team_name": "Sunderland",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 561,
+                    "name": "Sam Allardyce",
+                    "nickname": null,
+                    "dob": "1954-10-19",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-06-28T18:36:31.942",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 210,
+            "name": "Stadium of Light",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 16,
+            "name": "Stuart Attwell",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cc2"
+        },
+        "match_id": 3754103,
+        "match_date": "2016-02-03",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 23,
+            "home_team_name": "Watford",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 33,
+            "away_team_name": "Chelsea",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3608,
+                    "name": "Guus Hiddink",
+                    "nickname": null,
+                    "dob": "1946-11-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-31T22:19:37.639",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4589,
+            "name": "Vicarage Road",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cd5"
+        },
+        "match_id": 3754142,
+        "match_date": "2016-01-13",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 36,
+            "home_team_name": "Manchester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-06-28T18:27:47.760",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4715,
+            "name": "Etihad Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 13,
+            "name": "Roger East",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cea"
+        },
+        "match_id": 3754183,
+        "match_date": "2016-01-13",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 25,
+            "home_team_name": "Southampton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 676,
+                    "name": "Ronald Koeman",
+                    "nickname": null,
+                    "dob": "1963-03-21",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 23,
+            "away_team_name": "Watford",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-10-30T00:20:51.500167",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 21,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4591,
+            "name": "St. Mary''s Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cf3"
+        },
+        "match_id": 3754201,
+        "match_date": "2016-02-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 25,
+            "away_team_name": "Southampton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 676,
+                    "name": "Ronald Koeman",
+                    "nickname": null,
+                    "dob": "1963-03-21",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:58:52.638857",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 3,
+            "name": "Emirates Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 10,
+            "name": "Lee Mason",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cf5"
+        },
+        "match_id": 3754206,
+        "match_date": "2016-04-19",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 37,
+            "home_team_name": "Newcastle United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 148,
+                    "name": "Rafael Benítez Maudes",
+                    "nickname": "Rafael Benítez",
+                    "dob": "1960-04-16",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 36,
+            "away_team_name": "Manchester City",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 733,
+                    "name": "Manuel Luis Pellegrini Ripamonti",
+                    "nickname": "Manuel Pellegrini",
+                    "dob": "1953-09-16",
+                    "country": {
+                        "id": 45,
+                        "name": "Chile"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 1,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-03T18:41:18.649",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 27,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 4674,
+            "name": "St. James'' Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 12,
+            "name": "Kevin Friend",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899cf6"
+        },
+        "match_id": 3754207,
+        "match_date": "2016-05-11",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 56,
+            "home_team_name": "Norwich City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 41,
+                    "name": "Alex Neil",
+                    "nickname": null,
+                    "dob": "1981-06-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 23,
+            "away_team_name": "Watford",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 236,
+                    "name": "Enrique Sánchez Flores",
+                    "nickname": "Quique Sánchez Flores",
+                    "dob": "1965-02-05",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 4,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:46:48.744617",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 35,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 220,
+            "name": "Carrow Road",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 13,
+            "name": "Roger East",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d02"
+        },
+        "match_id": 3754231,
+        "match_date": "2016-03-01",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 22,
+            "home_team_name": "Leicester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 27,
+            "away_team_name": "West Bromwich Albion",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-02T15:01:44.084",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 20,
+            "name": "King Power Stadium ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 728,
+            "name": "Mark Clattenburg",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d0d"
+        },
+        "match_id": 3754252,
+        "match_date": "2016-02-03",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 29,
+            "home_team_name": "Everton",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 37,
+            "away_team_name": "Newcastle United",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 40,
+                    "name": "Steve McClaren",
+                    "nickname": null,
+                    "dob": "1961-05-03",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "home_score": 3,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-03T14:51:48.886",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 12,
+            "name": "Goodison Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 2,
+            "name": "Craig Pawson",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d17"
+        },
+        "match_id": 3754275,
+        "match_date": "2016-02-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 22,
+            "home_team_name": "Leicester City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 60,
+                    "name": "Claudio Ranieri",
+                    "nickname": null,
+                    "dob": "1951-10-20",
+                    "country": {
+                        "id": 112,
+                        "name": "Italy"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 24,
+            "away_team_name": "Liverpool",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 94,
+                    "name": "Jürgen Klopp",
+                    "nickname": null,
+                    "dob": "1967-06-16",
+                    "country": {
+                        "id": 85,
+                        "name": "Germany"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-08-07T22:06:42.130",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 20,
+            "name": "King Power Stadium ",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 5,
+            "name": "Andre Marriner",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d19"
+        },
+        "match_id": 3754280,
+        "match_date": "2016-03-01",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 56,
+            "home_team_name": "Norwich City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 41,
+                    "name": "Alex Neil",
+                    "nickname": null,
+                    "dob": "1981-06-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 33,
+            "away_team_name": "Chelsea",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3608,
+                    "name": "Guus Hiddink",
+                    "nickname": null,
+                    "dob": "1946-11-08",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 2,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-05T23:07:55.731",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 220,
+            "name": "Carrow Road",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 10,
+            "name": "Lee Mason",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d1c"
+        },
+        "match_id": 3754284,
+        "match_date": "2016-04-21",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 27,
+            "away_team_name": "West Bromwich Albion",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 300,
+                    "name": "Tony Pulis",
+                    "nickname": null,
+                    "dob": "1958-01-16",
+                    "country": {
+                        "id": 249,
+                        "name": "Wales"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2021-07-06T18:08:15.386",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 30,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 3,
+            "name": "Emirates Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 3,
+            "name": "Jonathan Moss",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d2c"
+        },
+        "match_id": 3754317,
+        "match_date": "2016-02-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 56,
+            "home_team_name": "Norwich City",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 41,
+                    "name": "Alex Neil",
+                    "nickname": null,
+                    "dob": "1981-06-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 38,
+            "away_team_name": "Tottenham Hotspur",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "home_score": 0,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T13:56:50.633990",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 24,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 220,
+            "name": "Carrow Road",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 12,
+            "name": "Kevin Friend",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d34"
+        },
+        "match_id": 3754327,
+        "match_date": "2016-03-01",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 59,
+            "home_team_name": "Aston Villa",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 92,
+                    "name": "Rémi Garde",
+                    "nickname": null,
+                    "dob": "1966-04-03",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 29,
+            "away_team_name": "Everton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 263,
+                    "name": "Roberto Martínez Montoliú",
+                    "nickname": "Roberto Martínez",
+                    "dob": "1973-07-13",
+                    "country": {
+                        "id": 214,
+                        "name": "Spain"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 3,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:07:02.123384",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 211,
+            "name": "Villa Park",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 13,
+            "name": "Roger East",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d38"
+        },
+        "match_id": 3754334,
+        "match_date": "2016-03-01",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 28,
+            "home_team_name": "AFC Bournemouth",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 38,
+                    "name": "Eddie Howe",
+                    "nickname": null,
+                    "dob": "1977-11-29",
+                    "country": {
+                        "id": 68,
+                        "name": "England"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 25,
+            "away_team_name": "Southampton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 676,
+                    "name": "Ronald Koeman",
+                    "nickname": null,
+                    "dob": "1963-03-21",
+                    "country": {
+                        "id": 160,
+                        "name": "Netherlands"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:07:50.051638",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 71,
+            "name": "Vitality Stadium",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 6,
+            "name": "Mike Dean",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d40"
+        },
+        "match_id": 3754349,
+        "match_date": "2016-03-02",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 27,
+            "season_name": "2015/2016"
+        },
+        "home_team": {
+            "home_team_id": 40,
+            "home_team_name": "West Ham United",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 150,
+                    "name": "Slaven Bilić",
+                    "nickname": null,
+                    "dob": "1968-09-11",
+                    "country": {
+                        "id": 56,
+                        "name": "Croatia"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 38,
+            "away_team_name": "Tottenham Hotspur",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 81,
+                    "name": "Mauricio Roberto Pochettino Trossero",
+                    "nickname": "Mauricio Pochettino",
+                    "dob": "1972-03-02",
+                    "country": {
+                        "id": 11,
+                        "name": "Argentina"
+                    }
+                }
+            ]
+        },
+        "home_score": 1,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2022-12-01T14:09:36.386202",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 28,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "stadium": {
+            "id": 115324,
+            "name": "Boleyn Ground",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        },
+        "referee": {
+            "id": 5,
+            "name": "Andre Marriner",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d67"
+        },
+        "match_id": 3749631,
+        "match_date": "2004-02-10",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 25,
+            "away_team_name": "Southampton",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 3722,
+                    "name": "Gordon Strachan",
+                    "nickname": null,
+                    "dob": "1957-02-09",
+                    "country": {
+                        "id": 201,
+                        "name": "Scotland"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2023-02-19T03:35:51.604001",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 25,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        },
+        "referee": {
+            "id": 1008017,
+            "name": "Neale Barry",
+            "country": {
+                "id": 68,
+                "name": "England"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6579dcea8e2d88d22d899d69"
+        },
+        "match_id": 3749108,
+        "match_date": "2003-08-27",
+        "kick_off": "20:45:00.000",
+        "competition": {
+            "competition_id": 2,
+            "country_name": "England",
+            "competition_name": "Premier League"
+        },
+        "season": {
+            "season_id": 44,
+            "season_name": "2003/2004"
+        },
+        "home_team": {
+            "home_team_id": 1,
+            "home_team_name": "Arsenal",
+            "home_team_gender": "male",
+            "home_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 577,
+                    "name": "Arsène Wenger",
+                    "nickname": null,
+                    "dob": "1949-10-22",
+                    "country": {
+                        "id": 78,
+                        "name": "France"
+                    }
+                }
+            ]
+        },
+        "away_team": {
+            "away_team_id": 59,
+            "away_team_name": "Aston Villa",
+            "away_team_gender": "male",
+            "away_team_group": null,
+            "country": {
+                "id": 68,
+                "name": "England"
+            },
+            "managers": [
+                {
+                    "id": 6094,
+                    "name": "David O''Leary",
+                    "nickname": null,
+                    "dob": "1958-05-02",
+                    "country": {
+                        "id": 109,
+                        "name": "Ireland"
+                    }
+                }
+            ]
+        },
+        "home_score": 2,
+        "away_score": 0,
+        "match_status": "available",
+        "match_status_360": "processing",
+        "last_updated": "2023-01-28T22:32:37.443603",
+        "last_updated_360": "2021-06-12T16:17:31.694",
+        "metadata": {
+            "data_version": "1.1.0",
+            "shot_fidelity_version": "2",
+            "xy_fidelity_version": "2"
+        },
+        "match_week": 3,
+        "competition_stage": {
+            "id": 1,
+            "name": "Regular Season"
+        }
+    }
+]
