@@ -1,0 +1,968 @@
+[
+    {
+        "column": "h_line_score",
+        "memory_abs": 4161,
+        "memory_per": 3.9766,
+        "dtype": "category"
+    },
+    {
+        "column": "v_line_score",
+        "memory_abs": 4050,
+        "memory_per": 3.8708,
+        "dtype": "category"
+    },
+    {
+        "column": "winning_rbi_batter_id_name",
+        "memory_abs": 847,
+        "memory_per": 0.8096,
+        "dtype": "category"
+    },
+    {
+        "column": "losing_pitcher_name",
+        "memory_abs": 842,
+        "memory_per": 0.8053,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_9_name",
+        "memory_abs": 841,
+        "memory_per": 0.8041,
+        "dtype": "category"
+    },
+    {
+        "column": "winning_rbi_batter_id",
+        "memory_abs": 829,
+        "memory_per": 0.7923,
+        "dtype": "category"
+    },
+    {
+        "column": "losing_pitcher_id",
+        "memory_abs": 823,
+        "memory_per": 0.7871,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_9_id",
+        "memory_abs": 822,
+        "memory_per": 0.7865,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_7_name",
+        "memory_abs": 817,
+        "memory_per": 0.7816,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_7_name",
+        "memory_abs": 814,
+        "memory_per": 0.7788,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_9_name",
+        "memory_abs": 811,
+        "memory_per": 0.7753,
+        "dtype": "category"
+    },
+    {
+        "column": "winning_pitcher_name",
+        "memory_abs": 807,
+        "memory_per": 0.7717,
+        "dtype": "category"
+    },
+    {
+        "column": "v_starting_pitcher_name",
+        "memory_abs": 805,
+        "memory_per": 0.7699,
+        "dtype": "category"
+    },
+    {
+        "column": "h_starting_pitcher_name",
+        "memory_abs": 805,
+        "memory_per": 0.7699,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_7_id",
+        "memory_abs": 801,
+        "memory_per": 0.7658,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_7_id",
+        "memory_abs": 798,
+        "memory_per": 0.7628,
+        "dtype": "category"
+    },
+    {
+        "column": "v_starting_pitcher_id",
+        "memory_abs": 794,
+        "memory_per": 0.7592,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_9_id",
+        "memory_abs": 794,
+        "memory_per": 0.7592,
+        "dtype": "category"
+    },
+    {
+        "column": "h_starting_pitcher_id",
+        "memory_abs": 792,
+        "memory_per": 0.7578,
+        "dtype": "category"
+    },
+    {
+        "column": "winning_pitcher_id",
+        "memory_abs": 789,
+        "memory_per": 0.755,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_8_name",
+        "memory_abs": 786,
+        "memory_per": 0.7512,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_6_name",
+        "memory_abs": 783,
+        "memory_per": 0.7491,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_6_name",
+        "memory_abs": 782,
+        "memory_per": 0.748,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_8_name",
+        "memory_abs": 782,
+        "memory_per": 0.7478,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_8_id",
+        "memory_abs": 770,
+        "memory_per": 0.7361,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_6_id",
+        "memory_abs": 769,
+        "memory_per": 0.735,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_6_id",
+        "memory_abs": 767,
+        "memory_per": 0.7338,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_8_id",
+        "memory_abs": 766,
+        "memory_per": 0.7329,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_5_name",
+        "memory_abs": 715,
+        "memory_per": 0.6838,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_2_name",
+        "memory_abs": 712,
+        "memory_per": 0.6807,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_5_name",
+        "memory_abs": 711,
+        "memory_per": 0.6796,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_2_name",
+        "memory_abs": 708,
+        "memory_per": 0.6769,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_5_id",
+        "memory_abs": 703,
+        "memory_per": 0.6721,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_2_id",
+        "memory_abs": 700,
+        "memory_per": 0.6692,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_5_id",
+        "memory_abs": 699,
+        "memory_per": 0.6684,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_2_id",
+        "memory_abs": 696,
+        "memory_per": 0.6655,
+        "dtype": "category"
+    },
+    {
+        "column": "date",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "int32"
+    },
+    {
+        "column": "length_outs",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "attendance",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "length_minutes",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_at_bats",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_hits",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_doubles",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_triples",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_homeruns",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_rbi",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_sacrifice_hits",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_sacrifice_flies",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_hit_by_pitch",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_walks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_intentional walks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_strikeouts",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_stolen_bases",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_caught_stealing",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_grounded_into_double",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_first_catcher_interference",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_left_on_base",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_pitchers_used",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_individual_earned_runs",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_team_earned_runs",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_wild_pitches",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_balks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_putouts",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_assists",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_errors",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_passed_balls",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_double_plays",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_triple_plays",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_at_bats",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_hits",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_doubles",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_triples",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_homeruns",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_rbi",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_sacrifice_hits",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_sacrifice_flies",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_hit_by_pitch",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_walks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_intentional walks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_strikeouts",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_stolen_bases",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_caught_stealing",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_grounded_into_double",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_first_catcher_interference",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_left_on_base",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_pitchers_used",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_individual_earned_runs",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_team_earned_runs",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_wild_pitches",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_balks",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_putouts",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_assists",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_errors",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_passed_balls",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_double_plays",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_triple_plays",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_1_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_2_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_3_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_4_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_5_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_6_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_7_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_8_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "v_player_9_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_1_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_2_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_3_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_4_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_5_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_6_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_7_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_8_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "h_player_9_def_pos",
+        "memory_abs": 671,
+        "memory_per": 0.6417,
+        "dtype": "float32"
+    },
+    {
+        "column": "saving_pitcher_name",
+        "memory_abs": 610,
+        "memory_per": 0.583,
+        "dtype": "category"
+    },
+    {
+        "column": "saving_pitcher_id",
+        "memory_abs": 599,
+        "memory_per": 0.5726,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_3_name",
+        "memory_abs": 599,
+        "memory_per": 0.5732,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_1_name",
+        "memory_abs": 592,
+        "memory_per": 0.5659,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_3_name",
+        "memory_abs": 592,
+        "memory_per": 0.5664,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_3_id",
+        "memory_abs": 590,
+        "memory_per": 0.5639,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_1_name",
+        "memory_abs": 587,
+        "memory_per": 0.5618,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_3_id",
+        "memory_abs": 583,
+        "memory_per": 0.5573,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_1_id",
+        "memory_abs": 582,
+        "memory_per": 0.5566,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_1_id",
+        "memory_abs": 578,
+        "memory_per": 0.5525,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_4_name",
+        "memory_abs": 572,
+        "memory_per": 0.5474,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_4_name",
+        "memory_abs": 569,
+        "memory_per": 0.5445,
+        "dtype": "category"
+    },
+    {
+        "column": "v_player_4_id",
+        "memory_abs": 564,
+        "memory_per": 0.5391,
+        "dtype": "category"
+    },
+    {
+        "column": "h_player_4_id",
+        "memory_abs": 561,
+        "memory_per": 0.5362,
+        "dtype": "category"
+    },
+    {
+        "column": "hp_umpire_name",
+        "memory_abs": 445,
+        "memory_per": 0.4254,
+        "dtype": "category"
+    },
+    {
+        "column": "hp_umpire_id",
+        "memory_abs": 440,
+        "memory_per": 0.4214,
+        "dtype": "category"
+    },
+    {
+        "column": "1b_umpire_name",
+        "memory_abs": 397,
+        "memory_per": 0.3799,
+        "dtype": "category"
+    },
+    {
+        "column": "h_manager_name",
+        "memory_abs": 396,
+        "memory_per": 0.3786,
+        "dtype": "category"
+    },
+    {
+        "column": "v_manager_name",
+        "memory_abs": 395,
+        "memory_per": 0.3778,
+        "dtype": "category"
+    },
+    {
+        "column": "1b_umpire_id",
+        "memory_abs": 394,
+        "memory_per": 0.3774,
+        "dtype": "category"
+    },
+    {
+        "column": "v_manager_id",
+        "memory_abs": 393,
+        "memory_per": 0.3756,
+        "dtype": "category"
+    },
+    {
+        "column": "h_manager_id",
+        "memory_abs": 393,
+        "memory_per": 0.3763,
+        "dtype": "category"
+    },
+    {
+        "column": "additional_info",
+        "memory_abs": 379,
+        "memory_per": 0.3624,
+        "dtype": "category"
+    },
+    {
+        "column": "3b_umpire_name",
+        "memory_abs": 368,
+        "memory_per": 0.3519,
+        "dtype": "category"
+    },
+    {
+        "column": "3b_umpire_id",
+        "memory_abs": 366,
+        "memory_per": 0.3506,
+        "dtype": "category"
+    },
+    {
+        "column": "2b_umpire_name",
+        "memory_abs": 365,
+        "memory_per": 0.3495,
+        "dtype": "category"
+    },
+    {
+        "column": "2b_umpire_id",
+        "memory_abs": 364,
+        "memory_per": 0.3483,
+        "dtype": "category"
+    },
+    {
+        "column": "park_id",
+        "memory_abs": 358,
+        "memory_per": 0.3428,
+        "dtype": "category"
+    },
+    {
+        "column": "v_name",
+        "memory_abs": 348,
+        "memory_per": 0.333,
+        "dtype": "category"
+    },
+    {
+        "column": "h_name",
+        "memory_abs": 348,
+        "memory_per": 0.333,
+        "dtype": "category"
+    },
+    {
+        "column": "v_game_number",
+        "memory_abs": 335,
+        "memory_per": 0.3209,
+        "dtype": "int16"
+    },
+    {
+        "column": "h_game_number",
+        "memory_abs": 335,
+        "memory_per": 0.3209,
+        "dtype": "int16"
+    },
+    {
+        "column": "completion",
+        "memory_abs": 180,
+        "memory_per": 0.1724,
+        "dtype": "category"
+    },
+    {
+        "column": "lf_umpire_name",
+        "memory_abs": 171,
+        "memory_per": 0.1635,
+        "dtype": "category"
+    },
+    {
+        "column": "lf_umpire_id",
+        "memory_abs": 170,
+        "memory_per": 0.1633,
+        "dtype": "category"
+    },
+    {
+        "column": "day_of_week",
+        "memory_abs": 168,
+        "memory_per": 0.1611,
+        "dtype": "category"
+    },
+    {
+        "column": "v_league",
+        "memory_abs": 168,
+        "memory_per": 0.1611,
+        "dtype": "category"
+    },
+    {
+        "column": "h_league",
+        "memory_abs": 168,
+        "memory_per": 0.1611,
+        "dtype": "category"
+    },
+    {
+        "column": "day_night",
+        "memory_abs": 168,
+        "memory_per": 0.1606,
+        "dtype": "category"
+    },
+    {
+        "column": "forefeit",
+        "memory_abs": 168,
+        "memory_per": 0.1607,
+        "dtype": "category"
+    },
+    {
+        "column": "protest",
+        "memory_abs": 168,
+        "memory_per": 0.1609,
+        "dtype": "category"
+    },
+    {
+        "column": "rf_umpire_id",
+        "memory_abs": 168,
+        "memory_per": 0.1612,
+        "dtype": "category"
+    },
+    {
+        "column": "rf_umpire_name",
+        "memory_abs": 168,
+        "memory_per": 0.1613,
+        "dtype": "category"
+    },
+    {
+        "column": "acquisition_info",
+        "memory_abs": 168,
+        "memory_per": 0.1606,
+        "dtype": "category"
+    },
+    {
+        "column": "number_of_game",
+        "memory_abs": 167,
+        "memory_per": 0.1604,
+        "dtype": "int8"
+    },
+    {
+        "column": "v_score",
+        "memory_abs": 167,
+        "memory_per": 0.1604,
+        "dtype": "int8"
+    },
+    {
+        "column": "h_score",
+        "memory_abs": 167,
+        "memory_per": 0.1604,
+        "dtype": "int8"
+    }
+]
