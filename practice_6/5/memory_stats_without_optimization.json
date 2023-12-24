@@ -1,0 +1,272 @@
+[
+    {
+        "column": "full_name",
+        "memory_abs": 70627,
+        "memory_per": 9.0603,
+        "dtype": "object"
+    },
+    {
+        "column": "id",
+        "memory_abs": 60843,
+        "memory_per": 7.8052,
+        "dtype": "object"
+    },
+    {
+        "column": "equinox",
+        "memory_abs": 58035,
+        "memory_per": 7.445,
+        "dtype": "object"
+    },
+    {
+        "column": "orbit_id",
+        "memory_abs": 56996,
+        "memory_per": 7.3117,
+        "dtype": "object"
+    },
+    {
+        "column": "class",
+        "memory_abs": 56163,
+        "memory_per": 7.2048,
+        "dtype": "object"
+    },
+    {
+        "column": "neo",
+        "memory_abs": 54291,
+        "memory_per": 6.9646,
+        "dtype": "object"
+    },
+    {
+        "column": "pha",
+        "memory_abs": 53785,
+        "memory_per": 6.8998,
+        "dtype": "object"
+    },
+    {
+        "column": "pdes",
+        "memory_abs": 46056,
+        "memory_per": 5.9082,
+        "dtype": "object"
+    },
+    {
+        "column": "name",
+        "memory_abs": 30675,
+        "memory_per": 3.9352,
+        "dtype": "object"
+    },
+    {
+        "column": "prefix",
+        "memory_abs": 29954,
+        "memory_per": 3.8426,
+        "dtype": "object"
+    },
+    {
+        "column": "spkid",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "int64"
+    },
+    {
+        "column": "H",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "diameter",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "albedo",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "diameter_sigma",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "epoch",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "epoch_mjd",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "int64"
+    },
+    {
+        "column": "epoch_cal",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "e",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "a",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "q",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "i",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "om",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "w",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "ma",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "ad",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "n",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "tp",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "tp_cal",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "per",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "per_y",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "moid",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "moid_ld",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_e",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_a",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_q",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_i",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_om",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_w",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_ma",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_ad",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_n",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_tp",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "sigma_per",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    },
+    {
+        "column": "rms",
+        "memory_abs": 7488,
+        "memory_per": 0.9606,
+        "dtype": "float64"
+    }
+]

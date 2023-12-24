@@ -1,0 +1,188 @@
+[
+    {
+        "column": "DEPARTURE_TIME",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "DEPARTURE_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "TAXI_OUT",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "WHEELS_OFF",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "SCHEDULED_TIME",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "ELAPSED_TIME",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "AIR_TIME",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "WHEELS_ON",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "TAXI_IN",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "ARRIVAL_TIME",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "ARRIVAL_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "AIR_SYSTEM_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "SECURITY_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "AIRLINE_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "LATE_AIRCRAFT_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "WEATHER_DELAY",
+        "memory_abs": 22730,
+        "memory_per": 4.5922,
+        "dtype": "float32"
+    },
+    {
+        "column": "TAIL_NUMBER",
+        "memory_abs": 11795,
+        "memory_per": 2.383,
+        "dtype": "category"
+    },
+    {
+        "column": "ORIGIN_AIRPORT",
+        "memory_abs": 11445,
+        "memory_per": 2.3123,
+        "dtype": "category"
+    },
+    {
+        "column": "DESTINATION_AIRPORT",
+        "memory_abs": 11445,
+        "memory_per": 2.3123,
+        "dtype": "category"
+    },
+    {
+        "column": "YEAR",
+        "memory_abs": 11365,
+        "memory_per": 2.2961,
+        "dtype": "int16"
+    },
+    {
+        "column": "FLIGHT_NUMBER",
+        "memory_abs": 11365,
+        "memory_per": 2.2961,
+        "dtype": "int16"
+    },
+    {
+        "column": "SCHEDULED_DEPARTURE",
+        "memory_abs": 11365,
+        "memory_per": 2.2961,
+        "dtype": "int16"
+    },
+    {
+        "column": "DISTANCE",
+        "memory_abs": 11365,
+        "memory_per": 2.2961,
+        "dtype": "int16"
+    },
+    {
+        "column": "SCHEDULED_ARRIVAL",
+        "memory_abs": 11365,
+        "memory_per": 2.2961,
+        "dtype": "int16"
+    },
+    {
+        "column": "AIRLINE",
+        "memory_abs": 5684,
+        "memory_per": 1.1483,
+        "dtype": "category"
+    },
+    {
+        "column": "CANCELLATION_REASON",
+        "memory_abs": 5683,
+        "memory_per": 1.1481,
+        "dtype": "category"
+    },
+    {
+        "column": "MONTH",
+        "memory_abs": 5682,
+        "memory_per": 1.148,
+        "dtype": "int8"
+    },
+    {
+        "column": "DAY",
+        "memory_abs": 5682,
+        "memory_per": 1.148,
+        "dtype": "int8"
+    },
+    {
+        "column": "DAY_OF_WEEK",
+        "memory_abs": 5682,
+        "memory_per": 1.148,
+        "dtype": "int8"
+    },
+    {
+        "column": "DIVERTED",
+        "memory_abs": 5682,
+        "memory_per": 1.148,
+        "dtype": "int8"
+    },
+    {
+        "column": "CANCELLED",
+        "memory_abs": 5682,
+        "memory_per": 1.148,
+        "dtype": "int8"
+    }
+]
