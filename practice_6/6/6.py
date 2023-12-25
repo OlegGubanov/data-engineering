@@ -55,6 +55,7 @@ def optimize_dataframe(df):
     return df
 
 
+# ссылка на датасет - https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data
 df = pd.read_csv('vehicles.csv.zip')
 write_memory_stats('memory_stats_without_optimization.json', df)
 
